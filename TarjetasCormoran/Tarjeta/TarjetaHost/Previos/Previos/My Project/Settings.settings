@@ -1,0 +1,117 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Red" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">P</Value>
+    </Setting>
+    <Setting Name="IP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0.0.0.0</Value>
+    </Setting>
+    <Setting Name="Puerto" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">27851</Value>
+    </Setting>
+    <Setting Name="IpLlamar" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.1</Value>
+    </Setting>
+    <Setting Name="llamarAlInicio" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Entorno" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TES</Value>
+    </Setting>
+    <Setting Name="CuentaComercioPAS" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="SQLAutorizaciones" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT     TOP 800 dbo.CUENTASCLIENTES_ESTADOS.Descripcion AS Expr1, dbo.AUTORIZACIONES_ESTADOS.Descripcion,                       dbo.AUTORIZACIONES.IdAutorizacion, dbo.AUTORIZACIONES.Fecha, dbo.AUTORIZACIONES.IdCuentaComercio, dbo.CUENTASCOMERCIOS.NFantasia,                 dbo.AUTORIZACIONES.IdPlastico, dbo.AUTORIZACIONES.NroAutorizacion, dbo.AUTORIZACIONES.CantidadCuotas, dbo.AUTORIZACIONES.MontoTotal,                       dbo.AUTORIZACIONES.Motivo, dbo.AUTORIZACIONES.IdTransaccion, dbo.AUTORIZACIONES.NroCupon, dbo.AUTORIZACIONES.LimCompra,                       dbo.AUTORIZACIONES.LimCompraCuotas, dbo.AUTORIZACIONES.LimAdelanto, dbo.AUTORIZACIONES.DispCompra,                       dbo.AUTORIZACIONES.DispCompraCuotas, dbo.AUTORIZACIONES.DispAdelanto, dbo.AUTORIZACIONES.IdPlanVenta,                      dbo.AUTORIZACIONES.IdTipoTransaccion, dbo.AUTORIZACIONES.ISOCodigoResultado, dbo.AUTORIZACIONES.FechaNegocio,                       dbo.AUTORIZACIONES.Trace, dbo.AUTORIZACIONES.MontoOriginal, dbo.AUTORIZACIONES.FechaAcceso, dbo.PLASTICOS.IdEstadoPlastico,                       dbo.CUENTASCLIENTES.IdCuentaCliente, dbo.PLASTICOS.Track1, dbo.CUENTASCLIENTES.CacheDisponibleCompra,                       dbo.CUENTASCLIENTES.CacheDisponibleCompraCuotas, dbo.CUENTASCLIENTES.CacheFecha, dbo.CUENTASCLIENTES.CacheDisponibleAdelanto,                       dbo.TERMINALES.Codigo, dbo.TERMINALES.Descripcion AS Expr2 FROM         dbo.AUTORIZACIONES INNER JOIN                      dbo.AUTORIZACIONES_ESTADOS ON dbo.AUTORIZACIONES.IdEstadoAutorizacion = dbo.AUTORIZACIONES_ESTADOS.IdEstadoAutorizacion INNER JOIN                       dbo.PLASTICOS ON dbo.AUTORIZACIONES.IdPlastico = dbo.PLASTICOS.IdPlastico INNER JOIN                     dbo.CUENTASCLIENTES ON dbo.PLASTICOS.IdCuentaCliente = dbo.CUENTASCLIENTES.IdCuentaCliente INNER JOIN                       dbo.TERMINALES ON dbo.AUTORIZACIONES.IdTerminal = dbo.TERMINALES.IdTerminal AND                       dbo.AUTORIZACIONES.IdTipoTerminal = dbo.TERMINALES.IdTipoTerminal INNER JOIN dbo.CUENTASCOMERCIOS ON dbo.AUTORIZACIONES.IdCuentaComercio = dbo.CUENTASCOMERCIOS.IdCuentaComercio INNER JOIN                       dbo.CUENTASCLIENTES_ESTADOS ON                       dbo.CUENTASCLIENTES.IdEstadoCuentaCliente = dbo.CUENTASCLIENTES_ESTADOS.IdEstadoCuentaCliente WHERE     dbo.AUTORIZACIONES.IdTipoTerminal IN ( 3) ORDER BY dbo.AUTORIZACIONES.IdAutorizacion DESC</Value>
+    </Setting>
+    <Setting Name="EmailAvisoMaximo" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gustavo.marzioni@cfr.com.ar</Value>
+    </Setting>
+    <Setting Name="MontoAviso" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">400</Value>
+    </Setting>
+    <Setting Name="FromEmail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">operaciones@tarjetanexo.com.ar</Value>
+    </Setting>
+    <Setting Name="Servidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mail.cfr.com.ar</Value>
+    </Setting>
+    <Setting Name="CuentaComercio" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="TipoTransaccionAdel1pago" Type="System.Int16" Scope="Application">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="TipoTransaccionAdelCtas" Type="System.Int16" Scope="Application">
+      <Value Profile="(Default)">33</Value>
+    </Setting>
+    <Setting Name="IdPlanAdelCtas" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="TipoTransaccionPAS" Type="System.Int16" Scope="Application">
+      <Value Profile="(Default)">7</Value>
+    </Setting>
+    <Setting Name="IdPlanPAS" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="TipotransaccionPulsos" Type="System.Int16" Scope="Application">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="MaxCuotasInformativo" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">12</Value>
+    </Setting>
+    <Setting Name="MontoMaxAdelanto" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4000</Value>
+    </Setting>
+    <Setting Name="TipoTransaccionDevolucion" Type="System.Int16" Scope="Application">
+      <Value Profile="(Default)">122</Value>
+    </Setting>
+    <Setting Name="TipoTransaccionCompra" Type="System.Int16" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Auditar" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EmailAvisoSAF" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gustavo.marzioni@cfr.com.ar</Value>
+    </Setting>
+    <Setting Name="AdelantoenCuotasAfectaLimiteCompraCuotas" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CantidadMaxAdelantos" Type="System.Int16" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="EsperaMaxima" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">4000</Value>
+    </Setting>
+    <Setting Name="EmailNoeco" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gustavo.marzioni@cfr.com.ar</Value>
+    </Setting>
+    <Setting Name="TipotransaccionPago" Type="System.Int16" Scope="Application">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="MensajeSAldo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="IdEnteCobranza" Type="System.Int16" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="HabilitarTopePlastico" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="activarNolock" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="RegistrarConsultasLentas" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="EmailUsuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">operacionescfr</Value>
+    </Setting>
+    <Setting Name="EmailPwd" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">irbksa</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

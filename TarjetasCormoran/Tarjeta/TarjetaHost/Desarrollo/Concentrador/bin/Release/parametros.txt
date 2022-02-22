@@ -1,0 +1,11 @@
+Ciudad (Rafaela - San Francisco)=Rafaela
+DirTarjetas=C:\temp
+DirLocal=C:\Tarjetas
+TipoConfiguracion (Produccion - Homologacion)=Homologacion
+HoraCierre=230000
+HoraReinicio=010000
+ServidorCorreo=smtp-relay.gmail.com
+PuertoCorreo=25
+Cierre (Auto - Manual)=Auto
+Conexion (MPLS - VPN)=MPLS
+MODO (PEI - NOPEI)=PEI

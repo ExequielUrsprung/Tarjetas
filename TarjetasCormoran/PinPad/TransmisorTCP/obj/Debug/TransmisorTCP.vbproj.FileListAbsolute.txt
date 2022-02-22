@@ -1,0 +1,29 @@
+C:\ProyectosNET\ServidorTCP\TransmisorTCP\bin\Debug\TransmisorTCP.dll
+C:\ProyectosNET\ServidorTCP\TransmisorTCP\bin\Debug\TransmisorTCP.pdb
+C:\ProyectosNET\ServidorTCP\TransmisorTCP\bin\Debug\TransmisorTCP.xml
+C:\ProyectosNET\ServidorTCP\TransmisorTCP\obj\Debug\TransmisorTCP.vbprojResolveAssemblyReference.cache
+C:\ProyectosNET\ServidorTCP\TransmisorTCP\obj\Debug\TransmisorTCP.Resources.resources
+C:\ProyectosNET\ServidorTCP\TransmisorTCP\obj\Debug\TransmisorTCP.vbproj.GenerateResource.cache
+C:\ProyectosNET\ServidorTCP\TransmisorTCP\obj\Debug\TransmisorTCP.vbproj.CoreCompileInputs.cache
+C:\ProyectosNET\ServidorTCP\TransmisorTCP\obj\Debug\TransmisorTCP.dll
+C:\ProyectosNET\ServidorTCP\TransmisorTCP\obj\Debug\TransmisorTCP.xml
+C:\ProyectosNET\ServidorTCP\TransmisorTCP\obj\Debug\TransmisorTCP.pdb
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\bin\Debug\TransmisorTCP.dll
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\bin\Debug\TransmisorTCP.pdb
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\bin\Debug\TransmisorTCP.xml
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.Resources.resources
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.dll
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.xml
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\bin\Debug\TransmisorTCP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\bin\Debug\TransmisorTCP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\bin\Debug\TransmisorTCP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.vbproj.AssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Debug\TransmisorTCP.pdb

@@ -1,0 +1,23 @@
+C:\tarjetas\sistema\TjComun.dll
+C:\tarjetas\sistema\TjComun.pdb
+C:\tarjetas\sistema\TjComun.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Release\TjComun.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Release\TjComun.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Release\TjComun.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Release\log4net.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Release\VxCrypter.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Release\TjComun.vbprojResolveAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Release\TjComun.Resources.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Release\TjComun.vbproj.GenerateResource.Cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Release\TjComun.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Release\TjComun.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Release\TjComun.pdb
+C:\Proyecto Tarjetas\PinPad\TjComun\bin\Release\TjComun.dll
+C:\Proyecto Tarjetas\PinPad\TjComun\bin\Release\TjComun.pdb
+C:\Proyecto Tarjetas\PinPad\TjComun\bin\Release\TjComun.xml
+C:\Proyecto Tarjetas\PinPad\TjComun\bin\Release\VxCrypter.dll
+C:\Proyecto Tarjetas\PinPad\TjComun\obj\Release\TjComun.Resources.resources
+C:\Proyecto Tarjetas\PinPad\TjComun\obj\Release\TjComun.vbproj.GenerateResource.Cache
+C:\Proyecto Tarjetas\PinPad\TjComun\obj\Release\TjComun.dll
+C:\Proyecto Tarjetas\PinPad\TjComun\obj\Release\TjComun.xml
+C:\Proyecto Tarjetas\PinPad\TjComun\obj\Release\TjComun.pdb

@@ -1,0 +1,29 @@
+2015-12-03 16:59:21.093 [1] INFO - Starting Trx Bootstrap version 2.0.3003.1
+2015-12-03 16:59:21.343 [1] INFO - Detected configuration:
+   base config directory is 'C:\DESCARGAS\Downloads\Trx Framework 2_0_3003_1\Trx\Config'
+   applications using shared base bin folder 'C:\DESCARGAS\Downloads\Trx Framework 2_0_3003_1\Trx\Bin\'
+   applications NOT reloading on assembly updates in local bin directory
+   detected Trx Server configuration files:
+      C:\DESCARGAS\Downloads\Trx Framework 2_0_3003_1\Trx\Config\TrxServer.xml
+2015-12-03 16:59:22.390 [1] INFO - Creating Trx Server from config file: C:\DESCARGAS\Downloads\Trx Framework 2_0_3003_1\Trx\Config\TrxServer.xml
+2015-12-03 16:59:23.140 [1] INFO - Trx Server instance '\\Root' was created (friendly name: Root)
+2015-12-03 16:59:23.140 [1] INFO - Starting Trx Server instance '\\Root'
+2015-12-03 16:59:23.828 [1] INFO - Trx Server instance '\\Root' is started
+2015-12-03 16:59:23.859 [1] INFO - System is now up and running
+2015-12-03 16:59:30.234 [6] INFO - Cancel key catched, shutting down ...
+2015-12-03 16:59:30.234 [1] INFO - Executing a graceful shutdown
+2015-12-03 16:59:30.281 [1] INFO - Stopping Trx Server instance '\\Root'
+2015-12-03 16:59:30.296 [1] INFO - Trx Server instance '\\Root' is stopped
+2015-12-03 16:59:30.375 [1] INFO - System is now stopped
+2015-12-03 17:10:07.313 [1] INFO - Starting Trx Bootstrap version 2.0.3003.1
+2015-12-03 17:10:07.432 [1] INFO - Detected configuration:
+   base config directory is 'C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework2\Trx Framework 2_0_3003_1\Trx\Config'
+   applications using shared base bin folder 'C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework2\Trx Framework 2_0_3003_1\Trx\Bin\'
+   applications NOT reloading on assembly updates in local bin directory
+   detected Trx Server configuration files:
+      C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework2\Trx Framework 2_0_3003_1\Trx\Config\TrxServer.xml
+2015-12-03 17:10:07.685 [1] INFO - Creating Trx Server from config file: C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework2\Trx Framework 2_0_3003_1\Trx\Config\TrxServer.xml
+2015-12-03 17:10:08.401 [1] INFO - Trx Server instance '\\Root' was created (friendly name: Root)
+2015-12-03 17:10:08.402 [1] INFO - Starting Trx Server instance '\\Root'
+2015-12-03 17:10:08.969 [1] INFO - Trx Server instance '\\Root' is started
+2015-12-03 17:10:08.971 [1] INFO - System is now up and running

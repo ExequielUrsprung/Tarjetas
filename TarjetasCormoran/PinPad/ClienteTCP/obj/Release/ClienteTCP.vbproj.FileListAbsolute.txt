@@ -1,0 +1,46 @@
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\app.config
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\ClienteTCP.dll
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\ClienteTCP.pdb
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\ClienteTCP.xml
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\lib_PP.dll
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\TjComun.dll
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\TransmisorTCP.dll
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\VxCrypter.dll
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\TjComun.pdb
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\TjComun.xml
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\lib_PP.pdb
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\lib_PP.xml
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\lib_PP.dll.config
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\TransmisorTCP.pdb
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\bin\Release\TransmisorTCP.xml
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\obj\Release\ClienteTCP.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\obj\Release\ClienteTCP.Resources.resources
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\obj\Release\ClienteTCP.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\obj\Release\ClienteTCP.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\obj\Release\ClienteTCP.vbproj.CopyComplete
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\obj\Release\ClienteTCP.dll
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\obj\Release\ClienteTCP.xml
+C:\Proyecto Tarjetas\PinPad\ClienteTCP\obj\Release\ClienteTCP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\app.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\ClienteTCP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\ClienteTCP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\ClienteTCP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\lib_PP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\TransmisorTCP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\VxCrypter.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\lib_PP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\lib_PP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\lib_PP.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\TransmisorTCP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\bin\Release\TransmisorTCP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\obj\Release\ClienteTCP.vbproj.AssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\obj\Release\ClienteTCP.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\obj\Release\ClienteTCP.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\obj\Release\ClienteTCP.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\obj\Release\ClienteTCP.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\obj\Release\ClienteTCP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\obj\Release\ClienteTCP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\ClienteTCP\obj\Release\ClienteTCP.pdb

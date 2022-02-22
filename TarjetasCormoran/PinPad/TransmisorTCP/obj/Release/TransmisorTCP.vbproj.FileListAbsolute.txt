@@ -1,0 +1,19 @@
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\bin\Release\TransmisorTCP.dll
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\bin\Release\TransmisorTCP.pdb
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\bin\Release\TransmisorTCP.xml
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.Resources.resources
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.dll
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.xml
+C:\Proyecto Tarjetas\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\bin\Release\TransmisorTCP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\bin\Release\TransmisorTCP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\bin\Release\TransmisorTCP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.vbproj.AssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\TransmisorTCP\obj\Release\TransmisorTCP.pdb

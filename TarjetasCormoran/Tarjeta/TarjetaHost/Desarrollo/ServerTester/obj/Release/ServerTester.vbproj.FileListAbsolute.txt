@@ -1,0 +1,79 @@
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\log4net.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\log4net.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\Newtonsoft.Json.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\parametros.txt
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\app.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\ServerTester.exe.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\ServerTester.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\ServerTester.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\ServerTester.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\IsoLib.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjComun.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjServer.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\Trx.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\VxCrypter.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\lib_PEI.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TransmisorTCP.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\IsoLib.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\IsoLib.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\IsoLib.dll.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjComun.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjComun.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjServer.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjServer.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjServer.dll.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\Trx.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\lib_PEI.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\lib_PEI.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TransmisorTCP.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TransmisorTCP.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\es\Trx.resources.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.FrmServerTester.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.Resources.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.vbproj.CopyComplete
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\log4net.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\Newtonsoft.Json.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\parametros.txt
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\app.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\ServerTester.exe.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\ServerTester.exe
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\ServerTester.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\ServerTester.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\IsoLib.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjServer.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\Trx.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\VxCrypter.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\lib_PEI.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TransmisorTCP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\IsoLib.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\IsoLib.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\IsoLib.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjServer.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjServer.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TjServer.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\Trx.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\lib_PEI.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\lib_PEI.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\lib_PEI.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TransmisorTCP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\TransmisorTCP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\bin\Release\es\Trx.resources.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.vbprojAssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.FrmServerTester.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.exe
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\ServerTester\obj\Release\ServerTester.pdb

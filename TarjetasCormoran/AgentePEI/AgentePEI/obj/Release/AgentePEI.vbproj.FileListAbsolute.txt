@@ -1,0 +1,41 @@
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\bin\Release\AgentePEI.exe.config
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\bin\Release\AgentePEI.exe
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\bin\Release\AgentePEI.pdb
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\bin\Release\AgentePEI.xml
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\bin\Release\lib_PEI.dll
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\bin\Release\TjComun.dll
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\bin\Release\Newtonsoft.Json.dll
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\bin\Release\VxCrypter.dll
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\bin\Release\lib_PEI.pdb
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\bin\Release\lib_PEI.xml
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\bin\Release\TjComun.pdb
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\bin\Release\TjComun.xml
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\obj\Release\AgentePEI.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\obj\Release\AgentePEI.Resources.resources
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\obj\Release\AgentePEI.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\obj\Release\AgentePEI.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\obj\Release\AgentePEI.vbproj.CopyComplete
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\obj\Release\AgentePEI.exe
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\obj\Release\AgentePEI.xml
+C:\Proyecto Tarjetas\AgentePEI\AgentePEI\obj\Release\AgentePEI.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\AgentePEI.exe.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\AgentePEI.exe
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\AgentePEI.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\AgentePEI.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\lib_PEI.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\Newtonsoft.Json.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\VxCrypter.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\lib_PEI.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\lib_PEI.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\lib_PEI.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\bin\Release\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\obj\Release\AgentePEI.vbprojAssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\obj\Release\AgentePEI.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\obj\Release\AgentePEI.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\obj\Release\AgentePEI.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\obj\Release\AgentePEI.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\obj\Release\AgentePEI.exe
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\obj\Release\AgentePEI.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgentePEI\AgentePEI\obj\Release\AgentePEI.pdb

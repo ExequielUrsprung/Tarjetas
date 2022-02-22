@@ -1,0 +1,26 @@
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\bin\Debug\Trx.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\bin\Debug\Trx.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\bin\Debug\es\Trx.resources.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\bin\Debug\log4net.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.csprojAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.SR.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.SR.es.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.csproj.GenerateResource.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.csproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Debug\es\Trx.resources.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.csproj.CopyComplete
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\bin\Debug\Trx.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\bin\Debug\Trx.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\bin\Debug\es\Trx.resources.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\bin\Debug\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.SR.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.SR.es.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.csproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.csproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Debug\es\Trx.resources.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.csproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Debug\Trx.csproj.AssemblyReference.cache

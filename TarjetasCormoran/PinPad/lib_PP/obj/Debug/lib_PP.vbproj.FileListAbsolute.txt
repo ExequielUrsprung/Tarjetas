@@ -1,0 +1,24 @@
+C:\Proyecto Tarjetas\PinPad\lib_PP\bin\Debug\app.config
+C:\Proyecto Tarjetas\PinPad\lib_PP\bin\Debug\lib_PP.dll.config
+C:\Proyecto Tarjetas\PinPad\lib_PP\bin\Debug\lib_PP.dll
+C:\Proyecto Tarjetas\PinPad\lib_PP\bin\Debug\lib_PP.pdb
+C:\Proyecto Tarjetas\PinPad\lib_PP\bin\Debug\lib_PP.xml
+C:\Proyecto Tarjetas\PinPad\lib_PP\obj\Debug\lib_PP.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\PinPad\lib_PP\obj\Debug\lib_PP.Resources.resources
+C:\Proyecto Tarjetas\PinPad\lib_PP\obj\Debug\lib_PP.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\PinPad\lib_PP\obj\Debug\lib_PP.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\PinPad\lib_PP\obj\Debug\lib_PP.dll
+C:\Proyecto Tarjetas\PinPad\lib_PP\obj\Debug\lib_PP.xml
+C:\Proyecto Tarjetas\PinPad\lib_PP\obj\Debug\lib_PP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PP\bin\Debug\app.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PP\bin\Debug\lib_PP.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PP\bin\Debug\lib_PP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PP\bin\Debug\lib_PP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PP\bin\Debug\lib_PP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PP\obj\Debug\lib_PP.vbproj.AssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PP\obj\Debug\lib_PP.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PP\obj\Debug\lib_PP.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PP\obj\Debug\lib_PP.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PP\obj\Debug\lib_PP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PP\obj\Debug\lib_PP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PP\obj\Debug\lib_PP.pdb

@@ -1,0 +1,34 @@
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\bin\Release\AgenteQR.exe.config
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\bin\Release\AgenteQR.exe
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\bin\Release\AgenteQR.pdb
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\bin\Release\AgenteQR.xml
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\bin\Release\lib_QR.dll
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\bin\Release\log4net.dll
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\bin\Release\Newtonsoft.Json.dll
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\bin\Release\lib_QR.pdb
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\bin\Release\lib_QR.xml
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\obj\Release\AgenteQR.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\obj\Release\AgenteQR.Resources.resources
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\obj\Release\AgenteQR.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\obj\Release\AgenteQR.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\obj\Release\AgenteQR.vbproj.CopyComplete
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\obj\Release\AgenteQR.exe
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\obj\Release\AgenteQR.xml
+C:\Proyecto Tarjetas\AgenteQR\AgenteQR\obj\Release\AgenteQR.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\bin\Release\AgenteQR.exe.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\bin\Release\AgenteQR.exe
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\bin\Release\AgenteQR.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\bin\Release\AgenteQR.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\bin\Release\lib_QR.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\bin\Release\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\bin\Release\Newtonsoft.Json.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\bin\Release\lib_QR.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\bin\Release\lib_QR.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\obj\Release\AgenteQR.vbproj.AssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\obj\Release\AgenteQR.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\obj\Release\AgenteQR.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\obj\Release\AgenteQR.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\obj\Release\AgenteQR.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\obj\Release\AgenteQR.exe
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\obj\Release\AgenteQR.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\AgenteQR\AgenteQR\obj\Release\AgenteQR.pdb

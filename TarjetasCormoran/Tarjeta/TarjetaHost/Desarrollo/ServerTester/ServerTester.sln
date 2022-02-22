@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ServerTester", "ServerTester.vbproj", "{DDD11953-7F38-4FE2-B6CB-C81C9FE9C209}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ServerLib", "..\ServerLib\ServerLib.vbproj", "{BD9811FD-AF25-4B0A-86FF-7E33675E90AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trx_VS2005", "..\..\Framework\Trx_VS2005.csproj", "{F6747FE3-C211-4687-91B4-F44A2FE0EF1E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IsoLib_vs2005", "..\ISOLib\IsoLib_vs2005.vbproj", "{2CA3942F-3D56-459F-9A5D-116DDA9F4BEC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ServerTar", "..\ServerTar\ServerTar.vbproj", "{1261D59A-7BF7-4718-9860-066DFD2F4F28}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "IsoLibCaja_vs2005", "..\IsoLibCaja\IsoLibCaja_vs2005.vbproj", "{57692DA3-0830-4BF1-94DF-886842B53823}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cormoran2015.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ServerTester.vbproj
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ..\\ServerLib\\ServerLib.vbproj
+		SccProjectName2 = ../ServerLib
+		SccLocalPath2 = ..\\ServerLib
+		SccProjectUniqueName3 = ..\\ServerTar\\ServerTar.vbproj
+		SccProjectName3 = ../ServerTar
+		SccLocalPath3 = ..\\ServerTar
+		SccProjectUniqueName4 = ..\\..\\Framework\\Trx_VS2005.csproj
+		SccProjectName4 = ../../Framework
+		SccLocalPath4 = ..\\..\\Framework
+		SccProjectUniqueName5 = ..\\ISOLib\\IsoLib_vs2005.vbproj
+		SccProjectName5 = ../ISOLib
+		SccLocalPath5 = ..\\ISOLib
+		SccProjectUniqueName6 = ..\\IsoLibCaja\\IsoLibCaja_vs2005.vbproj
+		SccProjectName6 = ../IsoLibCaja
+		SccLocalPath6 = ..\\IsoLibCaja
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD11953-7F38-4FE2-B6CB-C81C9FE9C209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD11953-7F38-4FE2-B6CB-C81C9FE9C209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD11953-7F38-4FE2-B6CB-C81C9FE9C209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD11953-7F38-4FE2-B6CB-C81C9FE9C209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9811FD-AF25-4B0A-86FF-7E33675E90AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9811FD-AF25-4B0A-86FF-7E33675E90AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9811FD-AF25-4B0A-86FF-7E33675E90AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9811FD-AF25-4B0A-86FF-7E33675E90AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6747FE3-C211-4687-91B4-F44A2FE0EF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6747FE3-C211-4687-91B4-F44A2FE0EF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6747FE3-C211-4687-91B4-F44A2FE0EF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6747FE3-C211-4687-91B4-F44A2FE0EF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CA3942F-3D56-459F-9A5D-116DDA9F4BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA3942F-3D56-459F-9A5D-116DDA9F4BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA3942F-3D56-459F-9A5D-116DDA9F4BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA3942F-3D56-459F-9A5D-116DDA9F4BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1261D59A-7BF7-4718-9860-066DFD2F4F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1261D59A-7BF7-4718-9860-066DFD2F4F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1261D59A-7BF7-4718-9860-066DFD2F4F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1261D59A-7BF7-4718-9860-066DFD2F4F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57692DA3-0830-4BF1-94DF-886842B53823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57692DA3-0830-4BF1-94DF-886842B53823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57692DA3-0830-4BF1-94DF-886842B53823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57692DA3-0830-4BF1-94DF-886842B53823}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

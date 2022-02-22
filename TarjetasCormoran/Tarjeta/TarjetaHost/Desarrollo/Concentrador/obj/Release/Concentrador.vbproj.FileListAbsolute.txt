@@ -1,0 +1,86 @@
+C:\tarjetas\sistema\log4net.dll
+C:\tarjetas\sistema\log4net.config
+C:\tarjetas\sistema\app.config
+C:\tarjetas\sistema\Concentrador.exe.config
+C:\tarjetas\sistema\Concentrador.exe
+C:\tarjetas\sistema\Concentrador.pdb
+C:\tarjetas\sistema\Concentrador.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\log4net.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\log4net.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Newtonsoft.Json.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\parametros.txt
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\app.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Concentrador.exe.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Concentrador.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Concentrador.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Concentrador.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\IsoLib.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjComun.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjServer.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Trx.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\VxCrypter.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\lib_PEI.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TransmisorTCP.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\IsoLib.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\IsoLib.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\IsoLib.dll.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjComun.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjComun.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjServer.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjServer.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjServer.dll.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Trx.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\lib_PEI.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\lib_PEI.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TransmisorTCP.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TransmisorTCP.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\es\Trx.resources.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.FrmConcentrador.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.Resources.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.vbproj.CopyComplete
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\log4net.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Newtonsoft.Json.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\parametros.txt
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\app.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Concentrador.exe.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Concentrador.exe
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Concentrador.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Concentrador.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\IsoLib.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjServer.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Trx.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\VxCrypter.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\lib_PEI.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TransmisorTCP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\IsoLib.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\IsoLib.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\IsoLib.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjServer.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjServer.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TjServer.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\Trx.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\lib_PEI.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\lib_PEI.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\lib_PEI.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TransmisorTCP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\TransmisorTCP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\bin\Release\es\Trx.resources.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.vbprojAssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.FrmConcentrador.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.exe
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\Concentrador\obj\Release\Concentrador.pdb

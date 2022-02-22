@@ -1,0 +1,558 @@
+30/09 08:08:15 -------------------------- INICIO SESION PEI -----------------------------
+30/09 08:08:15 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_30/09/2019_8:08
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+30/09 08:08:15 -------------------------- RESPUESTA INICIO SESION -----------------------------
+30/09 08:08:17 {"token":"pfmhmX7ei1H9R5R1mJOMIt0C3NYppNn9C56BHdeC6gsMRWeFRPfkyY7Fh2pWQhBM"}
+30/09 08:08:17 -------------------------- COMPRA PEI -----------------------------
+30/09 08:08:17 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/pagos/sinbilletera/td/mediopresente/bandamagnetica
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: PAGO_CORMORAN_30/09/2019_8:08
+                    cliente: 200.2.127.227
+                    token: pfmhmX7ei1H9R5R1mJOMIt0C3NYppNn9C56BHdeC6gsMRWeFRPfkyY7Fh2pWQhBM
+                <DATA>
+{
+  "pago": {
+    "posEntryMode": "902",
+    "tracks": {
+      "track1": "ygX0EWoa/5rL5c+qhQG2jlZBzYSn7HGW8IVINtmGl4AyfPoODIVILw6/jL4J4lh+7z2W04qm4LRJA8uffGBt3vrypanNrHLSipFdU7PcQYp45MjYWDJ1+4zKyC9+X8wm",
+      "track2": "4WI9vAPOwLp0vOosgc+N0t7E6IUIx7oMIvgtUFjNOuQM5tzB2fjfk7U+7Md0FP/ScgtMLZWN2am3+vXCQM+Dug=="
+    },
+    "numero": "7007",
+    "titularDocumento": "29524627",
+    "idCanal": "PEIBANDA",
+    "idTerminal": "PING01",
+    "idReferenciaTrxComercio": "1045",
+    "idReferenciaOperacionComercio": "PAGOCORMORAN",
+    "importe": 1396,
+    "moneda": "ARS",
+    "codigoSeguridad": "cAF3e1LSoIxEhzUVGqp95/Rqj/I4YXpzKtmM0slSDA0=",
+    "concepto": "COMPRA_DE_BIENES"
+  }
+}
+30/09 08:08:17 {"pago":{"posEntryMode":"902","tracks":{"track1":"ygX0EWoa/5rL5c+qhQG2jlZBzYSn7HGW8IVINtmGl4AyfPoODIVILw6/jL4J4lh+7z2W04qm4LRJA8uffGBt3vrypanNrHLSipFdU7PcQYp45MjYWDJ1+4zKyC9+X8wm","track2":"4WI9vAPOwLp0vOosgc+N0t7E6IUIx7oMIvgtUFjNOuQM5tzB2fjfk7U+7Md0FP/ScgtMLZWN2am3+vXCQM+Dug=="},"numero":"7007","titularDocumento":"29524627","idCanal":"PEIBANDA","idTerminal":"PING01","idReferenciaTrxComercio":"1045","idReferenciaOperacionComercio":"PAGOCORMORAN","importe":1396,"moneda":"ARS","codigoSeguridad":"cAF3e1LSoIxEhzUVGqp95/Rqj/I4YXpzKtmM0slSDA0=","concepto":"COMPRA_DE_BIENES"}}
+30/09 08:08:17 -------------------------- RESPUESTA COMPRA -----------------------------
+30/09 08:08:24 {
+  "codigo": "TARJETA_INVALIDA",
+  "descripcion": "La tarjeta es inválida"
+}
+30/09 08:08:24 Error en compra: Error en el servidor remoto: (400) Solicitud incorrecta.
+30/09 08:08:24 Status Code: 7
+30/09 08:08:24 Status Description: Bad Request - TARJETA_INVALIDA - La tarjeta es inválida
+30/09 08:08:24 TRX Comercio: 1045
+30/09 08:08:24 -------------------------- CIERRE SESION PEI -----------------------------
+30/09 08:08:24 DELETE https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: FIN_CORMORAN_30/09/2019_8:08
+                    cliente: 200.2.127.227
+                    token: pfmhmX7ei1H9R5R1mJOMIt0C3NYppNn9C56BHdeC6gsMRWeFRPfkyY7Fh2pWQhBM
+30/09 08:08:24 -------------------------- RESPUESTA CIERRE SESION -----------------------------
+30/09 08:08:26 Sesion CERRADA
+30/09 10:22:42 -------------------------- INICIO SESION PEI -----------------------------
+30/09 10:22:42 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_30/09/2019_10:22
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+30/09 10:22:42 -------------------------- RESPUESTA INICIO SESION -----------------------------
+30/09 10:22:43 {"token":"ANUFOXSa3tfqTuoU4Xlcjc0W01m7WBNC9YPlKYKypNhrkADucKgmkRqTfxDciNDz"}
+30/09 10:22:43 -------------------------- COMPRA PEI -----------------------------
+30/09 10:22:43 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/pagos/sinbilletera/td/mediopresente/bandamagnetica
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: PAGO_CORMORAN_30/09/2019_10:22
+                    cliente: 200.2.127.227
+                    token: ANUFOXSa3tfqTuoU4Xlcjc0W01m7WBNC9YPlKYKypNhrkADucKgmkRqTfxDciNDz
+                <DATA>
+{
+  "pago": {
+    "posEntryMode": "902",
+    "tracks": {
+      "track1": "oDFZjAlyR1ffxNGhJhZ0BAvsPrIwjvu+5ik1hD4e96dtj7ACM3KIa0mEO4IKigfgaMaVDMSCM80ZcifhCBOW0m5YEuoAOqzjh88TaETR+r7wWLCxXS3Hg7sKLhThjmn2",
+      "track2": "ZTS6orz8TBiw/T7pt6xAO07fgZdkmi710Ywd5/DdPxsOb9JXaDvVQrD0gmOcR4SzT1ASedSrIQIWNmRKKkruzg=="
+    },
+    "numero": "7007",
+    "titularDocumento": "29524627",
+    "idCanal": "PEIBANDA",
+    "idTerminal": "PING01",
+    "idReferenciaTrxComercio": "1046",
+    "idReferenciaOperacionComercio": "PAGOCORMORAN",
+    "importe": 1396,
+    "moneda": "ARS",
+    "codigoSeguridad": "OmDoPihDKfxUX55YaVjDgRAxZ+dlgLRWr1D4IcF6lDw=",
+    "concepto": "COMPRA_DE_BIENES"
+  }
+}
+30/09 10:22:43 {"pago":{"posEntryMode":"902","tracks":{"track1":"oDFZjAlyR1ffxNGhJhZ0BAvsPrIwjvu+5ik1hD4e96dtj7ACM3KIa0mEO4IKigfgaMaVDMSCM80ZcifhCBOW0m5YEuoAOqzjh88TaETR+r7wWLCxXS3Hg7sKLhThjmn2","track2":"ZTS6orz8TBiw/T7pt6xAO07fgZdkmi710Ywd5/DdPxsOb9JXaDvVQrD0gmOcR4SzT1ASedSrIQIWNmRKKkruzg=="},"numero":"7007","titularDocumento":"29524627","idCanal":"PEIBANDA","idTerminal":"PING01","idReferenciaTrxComercio":"1046","idReferenciaOperacionComercio":"PAGOCORMORAN","importe":1396,"moneda":"ARS","codigoSeguridad":"OmDoPihDKfxUX55YaVjDgRAxZ+dlgLRWr1D4IcF6lDw=","concepto":"COMPRA_DE_BIENES"}}
+30/09 10:22:43 -------------------------- RESPUESTA COMPRA -----------------------------
+30/09 10:22:47 {
+  "codigo": "TARJETA_INVALIDA",
+  "descripcion": "La tarjeta es inválida"
+}
+30/09 10:22:47 Error en compra: Error en el servidor remoto: (400) Solicitud incorrecta.
+30/09 10:22:47 Status Code: 7
+30/09 10:22:47 Status Description: Bad Request - TARJETA_INVALIDA - La tarjeta es inválida
+30/09 10:22:47 TRX Comercio: 1046
+30/09 10:22:48 -------------------------- CIERRE SESION PEI -----------------------------
+30/09 10:22:48 DELETE https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: FIN_CORMORAN_30/09/2019_10:22
+                    cliente: 200.2.127.227
+                    token: ANUFOXSa3tfqTuoU4Xlcjc0W01m7WBNC9YPlKYKypNhrkADucKgmkRqTfxDciNDz
+30/09 10:22:48 -------------------------- RESPUESTA CIERRE SESION -----------------------------
+30/09 10:22:49 Sesion CERRADA
+30/09 10:27:34 -------------------------- INICIO SESION PEI -----------------------------
+30/09 10:27:34 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_30/09/2019_10:27
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+30/09 10:27:34 -------------------------- RESPUESTA INICIO SESION -----------------------------
+30/09 10:27:35 {"token":"u4HDr2hf942N4vOxv030R5qe1N2RikdqNRUvBVYWiX4wtzFvP3bSn2er41SjTRP2"}
+30/09 10:27:35 -------------------------- COMPRA PEI -----------------------------
+30/09 10:27:35 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/pagos/sinbilletera/td/mediopresente/bandamagnetica
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: PAGO_CORMORAN_30/09/2019_10:27
+                    cliente: 200.2.127.227
+                    token: u4HDr2hf942N4vOxv030R5qe1N2RikdqNRUvBVYWiX4wtzFvP3bSn2er41SjTRP2
+                <DATA>
+{
+  "pago": {
+    "posEntryMode": "902",
+    "tracks": {
+      "track1": "X6Ou0gAOagRYp8vFTJkhOfDpRg0GPytUwQr9BJdAzqiO9EwsqmzxrIRRBd1DfqVLdevYIMdS67Ldi3QU/sx1KWJjcYSG1bVEuelJ/FGLzV5cAecy25SAR0s4XhETCwya",
+      "track2": "VGXU1gCuIkl30cWDLvsalIImcJ5V4m6YsAj/sdfT8/oODqAsD2PcM2X0PQismimdiYiku3QeOUPm4ZjFi7EgYg=="
+    },
+    "numero": "7007",
+    "titularDocumento": "29524627",
+    "idCanal": "PEIBANDA",
+    "idTerminal": "PING01",
+    "idReferenciaTrxComercio": "1047",
+    "idReferenciaOperacionComercio": "PAGOCORMORAN",
+    "importe": 1396,
+    "moneda": "ARS",
+    "codigoSeguridad": "rCVpdMMxo2ZlEUfuvejSUPLr4KHrA4H/oh4CqU3Ggeo=",
+    "concepto": "COMPRA_DE_BIENES"
+  }
+}
+30/09 10:27:35 {"pago":{"posEntryMode":"902","tracks":{"track1":"X6Ou0gAOagRYp8vFTJkhOfDpRg0GPytUwQr9BJdAzqiO9EwsqmzxrIRRBd1DfqVLdevYIMdS67Ldi3QU/sx1KWJjcYSG1bVEuelJ/FGLzV5cAecy25SAR0s4XhETCwya","track2":"VGXU1gCuIkl30cWDLvsalIImcJ5V4m6YsAj/sdfT8/oODqAsD2PcM2X0PQismimdiYiku3QeOUPm4ZjFi7EgYg=="},"numero":"7007","titularDocumento":"29524627","idCanal":"PEIBANDA","idTerminal":"PING01","idReferenciaTrxComercio":"1047","idReferenciaOperacionComercio":"PAGOCORMORAN","importe":1396,"moneda":"ARS","codigoSeguridad":"rCVpdMMxo2ZlEUfuvejSUPLr4KHrA4H/oh4CqU3Ggeo=","concepto":"COMPRA_DE_BIENES"}}
+30/09 10:27:35 -------------------------- RESPUESTA COMPRA -----------------------------
+30/09 10:27:38 {
+  "codigo": "TARJETA_INVALIDA",
+  "descripcion": "La tarjeta es inválida"
+}
+30/09 10:27:38 Error en compra: Error en el servidor remoto: (400) Solicitud incorrecta.
+30/09 10:27:38 Status Code: 7
+30/09 10:27:38 Status Description: Bad Request - TARJETA_INVALIDA - La tarjeta es inválida
+30/09 10:27:38 TRX Comercio: 1047
+30/09 10:27:39 -------------------------- CIERRE SESION PEI -----------------------------
+30/09 10:27:39 DELETE https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: FIN_CORMORAN_30/09/2019_10:27
+                    cliente: 200.2.127.227
+                    token: u4HDr2hf942N4vOxv030R5qe1N2RikdqNRUvBVYWiX4wtzFvP3bSn2er41SjTRP2
+30/09 10:27:39 -------------------------- RESPUESTA CIERRE SESION -----------------------------
+30/09 10:27:40 Sesion CERRADA
+30/09 10:38:32 -------------------------- INICIO SESION PEI -----------------------------
+30/09 10:38:32 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_30/09/2019_10:38
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+30/09 10:38:33 -------------------------- RESPUESTA INICIO SESION -----------------------------
+30/09 10:38:34 {"token":"80ehZ39LtvqJUZg1evRGbkwmkrucGSFCtJ2DxW9V8C1yIOS66mwWNryvYF9cRVhk"}
+30/09 10:38:34 -------------------------- COMPRA PEI -----------------------------
+30/09 10:38:34 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/pagos/sinbilletera/td/mediopresente/bandamagnetica
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: PAGO_CORMORAN_30/09/2019_10:38
+                    cliente: 200.2.127.227
+                    token: 80ehZ39LtvqJUZg1evRGbkwmkrucGSFCtJ2DxW9V8C1yIOS66mwWNryvYF9cRVhk
+                <DATA>
+{
+  "pago": {
+    "posEntryMode": "902",
+    "tracks": {
+      "track1": "qUyT+7eIy5Zb7+SkvKiMzpIfzlOyVKBaBbFIMqXSg/ocTV7MLxGDBLPXdVt429Y1LAKWAuis0Kb9IZ5aguzm5HygXOw2g8MAUH3hp8lAsF+Y21aBGF6vI60rwtK/essj",
+      "track2": "kekr5Nkdr2m0LGFtDbzGcPkE4ziYAIG07fEEpNL3VRjA7UhVPKEdR86L6qzwGca2tOVEADVGpH5rCpMwPwGg+A=="
+    },
+    "numero": "7007",
+    "titularDocumento": "29524627",
+    "idCanal": "PEIBANDA",
+    "idTerminal": "PING01",
+    "idReferenciaTrxComercio": "1048",
+    "idReferenciaOperacionComercio": "PAGOCORMORAN",
+    "importe": 1396,
+    "moneda": "ARS",
+    "codigoSeguridad": "SkI85PbJf+q0NAEiC0Rudi0yJ/st/U8NnOBzFU4ENf0=",
+    "concepto": "COMPRA_DE_BIENES"
+  }
+}
+30/09 10:38:34 {"pago":{"posEntryMode":"902","tracks":{"track1":"qUyT+7eIy5Zb7+SkvKiMzpIfzlOyVKBaBbFIMqXSg/ocTV7MLxGDBLPXdVt429Y1LAKWAuis0Kb9IZ5aguzm5HygXOw2g8MAUH3hp8lAsF+Y21aBGF6vI60rwtK/essj","track2":"kekr5Nkdr2m0LGFtDbzGcPkE4ziYAIG07fEEpNL3VRjA7UhVPKEdR86L6qzwGca2tOVEADVGpH5rCpMwPwGg+A=="},"numero":"7007","titularDocumento":"29524627","idCanal":"PEIBANDA","idTerminal":"PING01","idReferenciaTrxComercio":"1048","idReferenciaOperacionComercio":"PAGOCORMORAN","importe":1396,"moneda":"ARS","codigoSeguridad":"SkI85PbJf+q0NAEiC0Rudi0yJ/st/U8NnOBzFU4ENf0=","concepto":"COMPRA_DE_BIENES"}}
+30/09 10:38:34 -------------------------- RESPUESTA COMPRA -----------------------------
+30/09 10:38:36 {
+  "codigo": "TARJETA_INVALIDA",
+  "descripcion": "La tarjeta es inválida"
+}
+30/09 10:38:36 Error en compra: Error en el servidor remoto: (400) Solicitud incorrecta.
+30/09 10:38:36 Status Code: 7
+30/09 10:38:36 Status Description: Bad Request - TARJETA_INVALIDA - La tarjeta es inválida
+30/09 10:38:36 TRX Comercio: 1048
+30/09 10:38:37 -------------------------- CIERRE SESION PEI -----------------------------
+30/09 10:38:37 DELETE https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: FIN_CORMORAN_30/09/2019_10:38
+                    cliente: 200.2.127.227
+                    token: 80ehZ39LtvqJUZg1evRGbkwmkrucGSFCtJ2DxW9V8C1yIOS66mwWNryvYF9cRVhk
+30/09 10:38:37 -------------------------- RESPUESTA CIERRE SESION -----------------------------
+30/09 10:38:39 Sesion CERRADA
+30/09 10:43:06 -------------------------- INICIO SESION PEI -----------------------------
+30/09 10:43:06 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_30/09/2019_10:43
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+30/09 10:43:06 -------------------------- RESPUESTA INICIO SESION -----------------------------
+30/09 10:43:07 {"token":"NvviJ53JksJywcpr21fXrD018yhKF7Rx2TRhbFKtLESwltWLXWKEUVlSZTh2G1BK"}
+30/09 10:43:07 -------------------------- COMPRA PEI -----------------------------
+30/09 10:43:07 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/pagos/sinbilletera/td/mediopresente/bandamagnetica
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: PAGO_CORMORAN_30/09/2019_10:43
+                    cliente: 200.2.127.227
+                    token: NvviJ53JksJywcpr21fXrD018yhKF7Rx2TRhbFKtLESwltWLXWKEUVlSZTh2G1BK
+                <DATA>
+{
+  "pago": {
+    "posEntryMode": "902",
+    "tracks": {
+      "track1": "jB5udr/1Xka8lUJXraRz/22sPmSWB3LUGr/B7U0tJUCIb1N+D/Yi0yGtdvZug8Mi4FQLjegHeH75qY4Y99ICWzO/SjLhFYM6rfKu4lx9d65GKyxt4tOUalY/JZ9gObc+",
+      "track2": "0tDVBLIEG2+ytFZSpNqvXGxxZuek4MdPGR9GVvktJNNz/UZhe3rhpe7usBvLmhXYqk062OBGtOUgMwwkKTXn3Q=="
+    },
+    "numero": "7007",
+    "titularDocumento": "29524627",
+    "idCanal": "PEIBANDA",
+    "idTerminal": "PING01",
+    "idReferenciaTrxComercio": "1049",
+    "idReferenciaOperacionComercio": "PAGOCORMORAN",
+    "importe": 1396,
+    "moneda": "ARS",
+    "codigoSeguridad": "09pwKiJ5viMTWIzIjRAOfLzdCMoPzxHR4k3yXpW5tzc=",
+    "concepto": "COMPRA_DE_BIENES"
+  }
+}
+30/09 10:43:07 {"pago":{"posEntryMode":"902","tracks":{"track1":"jB5udr/1Xka8lUJXraRz/22sPmSWB3LUGr/B7U0tJUCIb1N+D/Yi0yGtdvZug8Mi4FQLjegHeH75qY4Y99ICWzO/SjLhFYM6rfKu4lx9d65GKyxt4tOUalY/JZ9gObc+","track2":"0tDVBLIEG2+ytFZSpNqvXGxxZuek4MdPGR9GVvktJNNz/UZhe3rhpe7usBvLmhXYqk062OBGtOUgMwwkKTXn3Q=="},"numero":"7007","titularDocumento":"29524627","idCanal":"PEIBANDA","idTerminal":"PING01","idReferenciaTrxComercio":"1049","idReferenciaOperacionComercio":"PAGOCORMORAN","importe":1396,"moneda":"ARS","codigoSeguridad":"09pwKiJ5viMTWIzIjRAOfLzdCMoPzxHR4k3yXpW5tzc=","concepto":"COMPRA_DE_BIENES"}}
+30/09 10:43:07 -------------------------- RESPUESTA COMPRA -----------------------------
+30/09 10:43:10 {
+  "codigo": "TARJETA_INVALIDA",
+  "descripcion": "La tarjeta es inválida"
+}
+30/09 10:43:10 Error en compra: Error en el servidor remoto: (400) Solicitud incorrecta.
+30/09 10:43:10 Status Code: 7
+30/09 10:43:10 Status Description: Bad Request - TARJETA_INVALIDA - La tarjeta es inválida
+30/09 10:43:10 TRX Comercio: 1049
+30/09 10:43:11 -------------------------- CIERRE SESION PEI -----------------------------
+30/09 10:43:11 DELETE https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: FIN_CORMORAN_30/09/2019_10:43
+                    cliente: 200.2.127.227
+                    token: NvviJ53JksJywcpr21fXrD018yhKF7Rx2TRhbFKtLESwltWLXWKEUVlSZTh2G1BK
+30/09 10:43:11 -------------------------- RESPUESTA CIERRE SESION -----------------------------
+30/09 10:43:12 Sesion CERRADA
+30/09 10:46:25 -------------------------- INICIO SESION PEI -----------------------------
+30/09 10:46:25 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_30/09/2019_10:46
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+30/09 10:46:25 -------------------------- RESPUESTA INICIO SESION -----------------------------
+30/09 10:46:26 {"token":"byONBtB7DMzp9E7qNmsKlbvWftFFnf69GGYcHk7jm7FrFNjxCV29fqVev0de2GSv"}
+30/09 10:46:26 -------------------------- COMPRA PEI -----------------------------
+30/09 10:46:26 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/pagos/sinbilletera/td/mediopresente/bandamagnetica
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: PAGO_CORMORAN_30/09/2019_10:46
+                    cliente: 200.2.127.227
+                    token: byONBtB7DMzp9E7qNmsKlbvWftFFnf69GGYcHk7jm7FrFNjxCV29fqVev0de2GSv
+                <DATA>
+{
+  "pago": {
+    "posEntryMode": "902",
+    "tracks": {
+      "track1": "/6VEyQh/J9jS0UCmzoYORMFMsm+lTeuOo6L0v+Q1YtxfI495uQitMVywwC2T9MN9ZG0R3RbrtID9vjDQJPYZfWkaFwSE8sMRtNm3r7ve4LuYSXFGzG7XWi2Nf01cNYs0",
+      "track2": "1GBiKIJ5+zUEDByPE6SCgwSkSk6xpdJ/uF08ibVqpr8sPDketsxJ7lzSNgPOhpWuzY+xOF724l0eJb7J8leqEg=="
+    },
+    "numero": "7007",
+    "titularDocumento": "29524627",
+    "idCanal": "PEIBANDA",
+    "idTerminal": "PING01",
+    "idReferenciaTrxComercio": "1050",
+    "idReferenciaOperacionComercio": "PAGOCORMORAN",
+    "importe": 1396,
+    "moneda": "ARS",
+    "codigoSeguridad": "23mqDKGxQoCCNTAxN8ugpS89qA5jwv+/ZdTlkN0Z4S8=",
+    "concepto": "COMPRA_DE_BIENES"
+  }
+}
+30/09 10:46:26 {"pago":{"posEntryMode":"902","tracks":{"track1":"/6VEyQh/J9jS0UCmzoYORMFMsm+lTeuOo6L0v+Q1YtxfI495uQitMVywwC2T9MN9ZG0R3RbrtID9vjDQJPYZfWkaFwSE8sMRtNm3r7ve4LuYSXFGzG7XWi2Nf01cNYs0","track2":"1GBiKIJ5+zUEDByPE6SCgwSkSk6xpdJ/uF08ibVqpr8sPDketsxJ7lzSNgPOhpWuzY+xOF724l0eJb7J8leqEg=="},"numero":"7007","titularDocumento":"29524627","idCanal":"PEIBANDA","idTerminal":"PING01","idReferenciaTrxComercio":"1050","idReferenciaOperacionComercio":"PAGOCORMORAN","importe":1396,"moneda":"ARS","codigoSeguridad":"23mqDKGxQoCCNTAxN8ugpS89qA5jwv+/ZdTlkN0Z4S8=","concepto":"COMPRA_DE_BIENES"}}
+30/09 10:46:26 -------------------------- RESPUESTA COMPRA -----------------------------
+30/09 10:46:29 {
+  "codigo": "TARJETA_INVALIDA",
+  "descripcion": "La tarjeta es inválida"
+}
+30/09 10:46:29 Error en compra: Error en el servidor remoto: (400) Solicitud incorrecta.
+30/09 10:46:29 Status Code: 7
+30/09 10:46:29 Status Description: Bad Request - TARJETA_INVALIDA - La tarjeta es inválida
+30/09 10:46:29 TRX Comercio: 1050
+30/09 10:46:29 -------------------------- CIERRE SESION PEI -----------------------------
+30/09 10:46:29 DELETE https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: FIN_CORMORAN_30/09/2019_10:46
+                    cliente: 200.2.127.227
+                    token: byONBtB7DMzp9E7qNmsKlbvWftFFnf69GGYcHk7jm7FrFNjxCV29fqVev0de2GSv
+30/09 10:46:29 -------------------------- RESPUESTA CIERRE SESION -----------------------------
+30/09 10:46:31 Sesion CERRADA
+30/09 05:47:54 -------------------------- INICIO SESION PEI -----------------------------
+30/09 05:47:54 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_30/09/2019_17:47
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+30/09 05:47:54 -------------------------- RESPUESTA INICIO SESION -----------------------------
+30/09 05:47:55 {"token":"Sk0VJ8aOSK4JsphypaIUrKOBOAEwnh9qU4qNgCNzKJZf7lpFqKu835kk0tXZLEQR"}
+30/09 05:47:55 -------------------------- COMPRA PEI -----------------------------
+30/09 05:47:55 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/pagos/sinbilletera/td/mediopresente/bandamagnetica
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: PAGO_CORMORAN_30/09/2019_17:47
+                    cliente: 200.2.127.227
+                    token: Sk0VJ8aOSK4JsphypaIUrKOBOAEwnh9qU4qNgCNzKJZf7lpFqKu835kk0tXZLEQR
+                <DATA>
+{
+  "pago": {
+    "posEntryMode": "902",
+    "tracks": {
+      "track1": "9nPRWnYUEaX7OY14RtKZ3HtSBpRGQSiCGyGNAvDdOKaDDoLEx8yePT3MJmCLyiufSczND6CXDWdqFnaKoN1CUawguaUkG64Mv7KzE9HwJdCZ41gasvBT7xRoFl/Sc3eX",
+      "track2": "F7KHoXY2HlBVx22XI+RFP4hQ8ID6mV6qMA74/9ksNYURWsRIhAzSzO7wDh6V80lZ1j/r+8XKD4QHc0ruYveQpg=="
+    },
+    "numero": "7007",
+    "titularDocumento": "20190618",
+    "idCanal": "PEIBANDA",
+    "idTerminal": "PING01",
+    "idReferenciaTrxComercio": "1051",
+    "idReferenciaOperacionComercio": "PAGOCORMORAN",
+    "importe": 790,
+    "moneda": "ARS",
+    "codigoSeguridad": "qz9VMs46PcWU5Zc+R5UM4pnX6GZ+YkP2xsbnpjtpXVw=",
+    "concepto": "COMPRA_DE_BIENES"
+  }
+}
+30/09 05:47:55 {"pago":{"posEntryMode":"902","tracks":{"track1":"9nPRWnYUEaX7OY14RtKZ3HtSBpRGQSiCGyGNAvDdOKaDDoLEx8yePT3MJmCLyiufSczND6CXDWdqFnaKoN1CUawguaUkG64Mv7KzE9HwJdCZ41gasvBT7xRoFl/Sc3eX","track2":"F7KHoXY2HlBVx22XI+RFP4hQ8ID6mV6qMA74/9ksNYURWsRIhAzSzO7wDh6V80lZ1j/r+8XKD4QHc0ruYveQpg=="},"numero":"7007","titularDocumento":"20190618","idCanal":"PEIBANDA","idTerminal":"PING01","idReferenciaTrxComercio":"1051","idReferenciaOperacionComercio":"PAGOCORMORAN","importe":790,"moneda":"ARS","codigoSeguridad":"qz9VMs46PcWU5Zc+R5UM4pnX6GZ+YkP2xsbnpjtpXVw=","concepto":"COMPRA_DE_BIENES"}}
+30/09 05:47:55 -------------------------- RESPUESTA COMPRA -----------------------------
+30/09 05:47:59 {
+  "codigo": "TARJETA_INVALIDA",
+  "descripcion": "La tarjeta es inválida"
+}
+30/09 05:47:59 Error en compra: Error en el servidor remoto: (400) Solicitud incorrecta.
+30/09 05:47:59 Status Code: 7
+30/09 05:47:59 Status Description: Bad Request - TARJETA_INVALIDA - La tarjeta es inválida
+30/09 05:47:59 TRX Comercio: 1051
+30/09 05:47:59 -------------------------- CIERRE SESION PEI -----------------------------
+30/09 05:47:59 DELETE https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: FIN_CORMORAN_30/09/2019_17:47
+                    cliente: 200.2.127.227
+                    token: Sk0VJ8aOSK4JsphypaIUrKOBOAEwnh9qU4qNgCNzKJZf7lpFqKu835kk0tXZLEQR
+30/09 05:47:59 -------------------------- RESPUESTA CIERRE SESION -----------------------------
+30/09 05:48:01 Sesion CERRADA
+30/09 05:50:25 -------------------------- INICIO SESION PEI -----------------------------
+30/09 05:50:25 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_30/09/2019_17:50
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+30/09 05:50:26 -------------------------- RESPUESTA INICIO SESION -----------------------------
+30/09 05:50:26 {"token":"Cqg9BEbiKmnUf2sPYXqpvAoU2EkEra61CJO4AqdTr2l19A1fT3zqYWSWC5QxKbRU"}
+30/09 05:50:26 -------------------------- COMPRA PEI -----------------------------
+30/09 05:50:26 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/pagos/sinbilletera/td/mediopresente/bandamagnetica
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: PAGO_CORMORAN_30/09/2019_17:50
+                    cliente: 200.2.127.227
+                    token: Cqg9BEbiKmnUf2sPYXqpvAoU2EkEra61CJO4AqdTr2l19A1fT3zqYWSWC5QxKbRU
+                <DATA>
+{
+  "pago": {
+    "posEntryMode": "902",
+    "tracks": {
+      "track1": "QdcjSa+uwFC3sesLUHCNNQRDctfC3Ig91AOAhOwGTmgASryalukYI3SyK3GXjmwKYmzk3z1SwhhjpjbNU1g4nX3CIQ7IwkbnQO6Pe5ZbFzGYDQGTA/tqu96gmu9aeeET",
+      "track2": "9rPO5f3I++Lg1e1fGgq8QsLyCqKLKnG/aRtDYEkmAEc+eb5d7/qiMxv0/dsUOxCkRrlYdNnCF83wckkrai+VkQ=="
+    },
+    "numero": "7007",
+    "titularDocumento": "20190618",
+    "idCanal": "PEIBANDA",
+    "idTerminal": "PING01",
+    "idReferenciaTrxComercio": "1052",
+    "idReferenciaOperacionComercio": "PAGOCORMORAN",
+    "importe": 790,
+    "moneda": "ARS",
+    "codigoSeguridad": "/Cy6LNG6hqXJSU67t9muCZZLlHyNOYDIz9fE+zm0T3k=",
+    "concepto": "COMPRA_DE_BIENES"
+  }
+}
+30/09 05:50:26 {"pago":{"posEntryMode":"902","tracks":{"track1":"QdcjSa+uwFC3sesLUHCNNQRDctfC3Ig91AOAhOwGTmgASryalukYI3SyK3GXjmwKYmzk3z1SwhhjpjbNU1g4nX3CIQ7IwkbnQO6Pe5ZbFzGYDQGTA/tqu96gmu9aeeET","track2":"9rPO5f3I++Lg1e1fGgq8QsLyCqKLKnG/aRtDYEkmAEc+eb5d7/qiMxv0/dsUOxCkRrlYdNnCF83wckkrai+VkQ=="},"numero":"7007","titularDocumento":"20190618","idCanal":"PEIBANDA","idTerminal":"PING01","idReferenciaTrxComercio":"1052","idReferenciaOperacionComercio":"PAGOCORMORAN","importe":790,"moneda":"ARS","codigoSeguridad":"/Cy6LNG6hqXJSU67t9muCZZLlHyNOYDIz9fE+zm0T3k=","concepto":"COMPRA_DE_BIENES"}}
+30/09 05:50:26 -------------------------- RESPUESTA COMPRA -----------------------------
+30/09 05:50:29 {
+  "codigo": "TARJETA_INVALIDA",
+  "descripcion": "La tarjeta es inválida"
+}
+30/09 05:50:29 Error en compra: Error en el servidor remoto: (400) Solicitud incorrecta.
+30/09 05:50:29 Status Code: 7
+30/09 05:50:29 Status Description: Bad Request - TARJETA_INVALIDA - La tarjeta es inválida
+30/09 05:50:29 TRX Comercio: 1052
+30/09 05:50:30 -------------------------- CIERRE SESION PEI -----------------------------
+30/09 05:50:30 DELETE https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: FIN_CORMORAN_30/09/2019_17:50
+                    cliente: 200.2.127.227
+                    token: Cqg9BEbiKmnUf2sPYXqpvAoU2EkEra61CJO4AqdTr2l19A1fT3zqYWSWC5QxKbRU
+30/09 05:50:30 -------------------------- RESPUESTA CIERRE SESION -----------------------------
+30/09 05:50:31 Sesion CERRADA
+30/09 05:51:47 -------------------------- INICIO SESION PEI -----------------------------
+30/09 05:51:47 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_30/09/2019_17:51
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+30/09 05:51:47 -------------------------- RESPUESTA INICIO SESION -----------------------------
+30/09 05:51:48 {"token":"7Kk1NHsgLBXb95po5Lgsl394nA4cCU3PZGILZylqWGxwSeCahB6lr6AWxmLPzTMq"}
+30/09 05:51:48 -------------------------- COMPRA PEI -----------------------------
+30/09 05:51:48 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/pagos/sinbilletera/td/mediopresente/bandamagnetica
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: PAGO_CORMORAN_30/09/2019_17:51
+                    cliente: 200.2.127.227
+                    token: 7Kk1NHsgLBXb95po5Lgsl394nA4cCU3PZGILZylqWGxwSeCahB6lr6AWxmLPzTMq
+                <DATA>
+{
+  "pago": {
+    "posEntryMode": "902",
+    "tracks": {
+      "track1": "4XgeHRj4fB8fwUGDIsRfG1Rc0ekZY4u3UBWjUcKqaJFC56wCS9+Mr3GVZLDHZzgN0aGisjI8yQJ9ZFlwXij93S48qEKZ9jymw71QuP8rDQaOvY0VcyrHsqYuZ0iehMer",
+      "track2": "kKgVDj6GGQAkqZvM+Ot2OsFA8fNvEFA3uuNgz3KIoqNU0Hl2/wCcu8XqlHMd5G0h8dRaXCDCDpRGuIJtBsLEWw=="
+    },
+    "numero": "1004",
+    "titularDocumento": "34000919",
+    "idCanal": "PEIBANDA",
+    "idTerminal": "PING01",
+    "idReferenciaTrxComercio": "1053",
+    "idReferenciaOperacionComercio": "PAGOCORMORAN",
+    "importe": 790,
+    "moneda": "ARS",
+    "codigoSeguridad": "o5/jdeF2Jsi/akj0i8fotK378db7DL3EqXkjA2hdtBs=",
+    "concepto": "COMPRA_DE_BIENES"
+  }
+}
+30/09 05:51:48 {"pago":{"posEntryMode":"902","tracks":{"track1":"4XgeHRj4fB8fwUGDIsRfG1Rc0ekZY4u3UBWjUcKqaJFC56wCS9+Mr3GVZLDHZzgN0aGisjI8yQJ9ZFlwXij93S48qEKZ9jymw71QuP8rDQaOvY0VcyrHsqYuZ0iehMer","track2":"kKgVDj6GGQAkqZvM+Ot2OsFA8fNvEFA3uuNgz3KIoqNU0Hl2/wCcu8XqlHMd5G0h8dRaXCDCDpRGuIJtBsLEWw=="},"numero":"1004","titularDocumento":"34000919","idCanal":"PEIBANDA","idTerminal":"PING01","idReferenciaTrxComercio":"1053","idReferenciaOperacionComercio":"PAGOCORMORAN","importe":790,"moneda":"ARS","codigoSeguridad":"o5/jdeF2Jsi/akj0i8fotK378db7DL3EqXkjA2hdtBs=","concepto":"COMPRA_DE_BIENES"}}
+30/09 05:51:48 -------------------------- RESPUESTA COMPRA -----------------------------
+30/09 05:51:51 {"tipoOperacion":"PAGO","fecha":"2019-09-30T20:51:49Z","idOperacion":"263921","idOperacionOrigen":null,"numeroReferenciaBancaria":"000000121747"}
+30/09 05:51:51 Respuesta: APROBADA
+30/09 05:51:51 Operacion: PAGO
+30/09 05:51:51 ID Operacion: 263921
+30/09 05:51:51 ID Operacion Origen: 
+30/09 05:51:51 Nro Referencia Bancaria: 000000121747
+30/09 05:51:51 Fecha Operación: 30/09/2019 20:51:49
+30/09 05:51:51 TRX Comercio: 1053
+30/09 05:51:52 -------------------------- CIERRE SESION PEI -----------------------------
+30/09 05:51:52 DELETE https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: FIN_CORMORAN_30/09/2019_17:51
+                    cliente: 200.2.127.227
+                    token: 7Kk1NHsgLBXb95po5Lgsl394nA4cCU3PZGILZylqWGxwSeCahB6lr6AWxmLPzTMq
+30/09 05:51:52 -------------------------- RESPUESTA CIERRE SESION -----------------------------
+30/09 05:51:53 Sesion CERRADA

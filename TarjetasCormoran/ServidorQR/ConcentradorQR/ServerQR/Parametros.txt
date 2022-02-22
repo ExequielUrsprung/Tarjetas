@@ -1,0 +1,14 @@
+﻿Ciudad (Rafaela - San Francisco)=Rafaela
+DirTarjetas=C:\temp
+DirLocal=C:\SistemaQR
+TipoConfiguracion (Produccion - Homologacion)=Homologacion
+HoraCierre=230000
+HoraReinicio=010000
+ServidorCorreo=Cormont
+PuertoCorreo=25
+Cierre (Auto - Manual)=Auto
+Conexion (MPLS - VPN)=VPN
+MODO (PEI - NOPEI)=NOPEI
+MODO (QR - NOQR)=QR
+ESTADO QR (TESTQR - PRODQR)=TESTQR
+TIMEOUT SEARCH=50

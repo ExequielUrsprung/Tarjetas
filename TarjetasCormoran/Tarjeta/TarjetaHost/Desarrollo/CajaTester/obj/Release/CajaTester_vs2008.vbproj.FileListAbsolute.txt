@@ -1,0 +1,14 @@
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Release\CajaTester_vs2005.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Release\CajaTester_vs2005.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Release\CajaTester_vs2005.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Release\TjComun.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Release\VxCrypter.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Release\TjComun.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Release\TjComun.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Release\CajaTester_vs2008.vbprojResolveAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Release\CajaTester.Form1.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Release\CajaTester.Resources.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Release\CajaTester_vs2008.vbproj.GenerateResource.Cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Release\CajaTester_vs2005.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Release\CajaTester_vs2005.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Release\CajaTester_vs2005.pdb

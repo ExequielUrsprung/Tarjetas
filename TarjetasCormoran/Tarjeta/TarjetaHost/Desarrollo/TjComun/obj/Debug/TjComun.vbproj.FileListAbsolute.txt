@@ -1,0 +1,26 @@
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Debug\TjComun.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Debug\TjComun.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Debug\TjComun.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Debug\log4net.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Debug\VxCrypter.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.Resources.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.vbproj.CopyComplete
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Debug\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Debug\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Debug\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Debug\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\bin\Debug\VxCrypter.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.vbproj.AssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjComun\obj\Debug\TjComun.pdb

@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="TimeOut" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="Email" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vimarx@gmail.com</Value>
+    </Setting>
+    <Setting Name="Servidor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">cormoran.com.ar</Value>
+    </Setting>
+    <Setting Name="Intervalo" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="From" Type="System.String" Scope="User">
+      <Value Profile="(Default)">info@cormoran.com.ar</Value>
+    </Setting>
+    <Setting Name="PortPosnetComercio" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">27850</Value>
+    </Setting>
+    <Setting Name="ipPosnetComercio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">172.100.1.28</Value>
+    </Setting>
+    <Setting Name="OnPosnetComercio" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ipPosnetComercio2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">172.100.1.43</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

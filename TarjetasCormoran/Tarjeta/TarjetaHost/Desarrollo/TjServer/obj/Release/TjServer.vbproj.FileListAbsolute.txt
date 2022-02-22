@@ -1,0 +1,76 @@
+C:\tarjetas\sistema\log4net.dll
+C:\tarjetas\sistema\log4net.config
+C:\tarjetas\sistema\app.config
+C:\tarjetas\sistema\TjServer.dll.config
+C:\tarjetas\sistema\TjServer.dll
+C:\tarjetas\sistema\TjServer.pdb
+C:\tarjetas\sistema\TjServer.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\Newtonsoft.Json.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\log4net.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\log4net.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\parametros.txt
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\app.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjServer.dll.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjServer.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjServer.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjServer.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\IsoLib.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\lib_PEI.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjComun.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TransmisorTCP.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\Trx.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\VxCrypter.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\lib_PEI.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\lib_PEI.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TransmisorTCP.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TransmisorTCP.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\Trx.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\IsoLib.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\IsoLib.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\IsoLib.dll.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjComun.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjComun.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\es\Trx.resources.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.Resources.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.vbproj.CopyComplete
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\Newtonsoft.Json.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\log4net.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\parametros.txt
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\app.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjServer.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjServer.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjServer.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjServer.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\IsoLib.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\lib_PEI.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TransmisorTCP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\Trx.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\VxCrypter.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\lib_PEI.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\lib_PEI.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\lib_PEI.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TransmisorTCP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TransmisorTCP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\Trx.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\IsoLib.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\IsoLib.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\IsoLib.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\bin\Release\es\Trx.resources.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.vbprojAssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\TjServer\obj\Release\TjServer.pdb

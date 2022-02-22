@@ -1,0 +1,13 @@
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe.config
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.pdb
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.xml
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\obj\Debug\ServicioPEI.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\obj\Debug\ServicioPEI.Resources.resources
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\obj\Debug\ServicioPEI.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\obj\Debug\ServicioPEI.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\obj\Debug\ServicioPEI.exe
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\obj\Debug\ServicioPEI.xml
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\obj\Debug\ServicioPEI.pdb
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\obj\Debug\ServicioPEI.MainPEI.resources
+C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\obj\Debug\ServicioPEI.ProjectInstaller.resources

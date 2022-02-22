@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Tester_PP", "Tester_PP.vbproj", "{0EB4BF5D-2DAF-4FAD-AF4F-5F2D1006C619}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lib_PP", "..\lib_PP\lib_PP.vbproj", "{B5714D23-406F-4EFE-AFB9-F2BA75741E12}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TjComun", "..\..\Tarjeta\TarjetaHost\Desarrollo\TjComun\TjComun.vbproj", "{3A423C2A-7939-49CA-A0D5-0CDA3E1CBF6D}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TransmisorTCP", "..\TransmisorTCP\TransmisorTCP.vbproj", "{6CA49698-9C55-4623-A99F-F6A63E9C3167}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ClienteTCP", "..\ClienteTCP\ClienteTCP.vbproj", "{F93D4B39-0075-4E9B-86D3-400FFA71E700}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lib_PEI", "..\lib_PEI\lib_PEI.vbproj", "{E24C2B11-E0ED-4650-AE56-8A6695086066}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lib_QR", "..\lib_QR\lib_QR.vbproj", "{CC7F1840-EE2D-4BB2-8051-E8750C5DE785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB4BF5D-2DAF-4FAD-AF4F-5F2D1006C619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB4BF5D-2DAF-4FAD-AF4F-5F2D1006C619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB4BF5D-2DAF-4FAD-AF4F-5F2D1006C619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB4BF5D-2DAF-4FAD-AF4F-5F2D1006C619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5714D23-406F-4EFE-AFB9-F2BA75741E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5714D23-406F-4EFE-AFB9-F2BA75741E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5714D23-406F-4EFE-AFB9-F2BA75741E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5714D23-406F-4EFE-AFB9-F2BA75741E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A423C2A-7939-49CA-A0D5-0CDA3E1CBF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A423C2A-7939-49CA-A0D5-0CDA3E1CBF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A423C2A-7939-49CA-A0D5-0CDA3E1CBF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A423C2A-7939-49CA-A0D5-0CDA3E1CBF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA49698-9C55-4623-A99F-F6A63E9C3167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA49698-9C55-4623-A99F-F6A63E9C3167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA49698-9C55-4623-A99F-F6A63E9C3167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA49698-9C55-4623-A99F-F6A63E9C3167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93D4B39-0075-4E9B-86D3-400FFA71E700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93D4B39-0075-4E9B-86D3-400FFA71E700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93D4B39-0075-4E9B-86D3-400FFA71E700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93D4B39-0075-4E9B-86D3-400FFA71E700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24C2B11-E0ED-4650-AE56-8A6695086066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24C2B11-E0ED-4650-AE56-8A6695086066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24C2B11-E0ED-4650-AE56-8A6695086066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24C2B11-E0ED-4650-AE56-8A6695086066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7F1840-EE2D-4BB2-8051-E8750C5DE785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7F1840-EE2D-4BB2-8051-E8750C5DE785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7F1840-EE2D-4BB2-8051-E8750C5DE785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7F1840-EE2D-4BB2-8051-E8750C5DE785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {800802EB-476D-4A33-9F63-9204C5B6D17D}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cormoran2015.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\lib_PP\\lib_PP.vbproj
+		SccProjectName1 = ../lib_PP
+		SccLocalPath1 = ..\\lib_PP
+		SccProjectUniqueName2 = Tester_PP.vbproj
+		SccLocalPath2 = .
+		SccProjectUniqueName3 = ..\\..\\Tarjeta\\TarjetaHost\\Desarrollo\\TjComun\\TjComun.vbproj
+		SccProjectName3 = ../../Tarjeta/TarjetaHost/Desarrollo/TjComun
+		SccLocalPath3 = ..\\..\\Tarjeta\\TarjetaHost\\Desarrollo\\TjComun
+		SccProjectUniqueName4 = ..\\TransmisorTCP\\TransmisorTCP.vbproj
+		SccProjectName4 = ../TransmisorTCP
+		SccLocalPath4 = ..\\TransmisorTCP
+		SccProjectUniqueName5 = ..\\ClienteTCP\\ClienteTCP.vbproj
+		SccProjectName5 = ../ClienteTCP
+		SccLocalPath5 = ..\\ClienteTCP
+		SccProjectUniqueName6 = ..\\lib_PEI\\lib_PEI.vbproj
+		SccProjectName6 = ../lib_PEI
+		SccLocalPath6 = ..\\lib_PEI
+		SccProjectUniqueName7 = ..\\lib_QR\\lib_QR.vbproj
+		SccProjectName7 = ../lib_QR
+		SccLocalPath7 = ..\\lib_QR
+	EndGlobalSection
+EndGlobal

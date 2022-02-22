@@ -1,0 +1,4 @@
+[Startup]
+2015-12-10 16:37:34.929 [9] INFO - Acquirer is running, press any key to stop it...
+2015-12-10 16:37:35.195 [11] INFO - Acquirer: accepting connections on local end point 127.0.0.1:8583.
+2015-12-10 16:37:48.663 [9] INFO - Processed requests: 0

@@ -1,0 +1,75 @@
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\app.config
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\Newtonsoft.Json.dll
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\Tester_PP.exe.config
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\Tester_PP.exe
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\Tester_PP.pdb
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\Tester_PP.xml
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\ClienteTCP.dll
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\lib_PEI.dll
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\lib_PP.dll
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\lib_QR.dll
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\TjComun.dll
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\TransmisorTCP.dll
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\VxCrypter.dll
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\log4net.dll
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\TjComun.pdb
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\TjComun.xml
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\ClienteTCP.pdb
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\ClienteTCP.xml
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\lib_PEI.pdb
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\lib_PEI.xml
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\lib_PP.pdb
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\lib_PP.xml
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\lib_PP.dll.config
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\lib_QR.pdb
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\lib_QR.xml
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\TransmisorTCP.pdb
+C:\Proyecto Tarjetas\PinPad\Tester_PP\bin\Debug\TransmisorTCP.xml
+C:\Proyecto Tarjetas\PinPad\Tester_PP\obj\Debug\Tester_PP.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\PinPad\Tester_PP\obj\Debug\Tester_PP.Form1.resources
+C:\Proyecto Tarjetas\PinPad\Tester_PP\obj\Debug\Tester_PP.FormQR.resources
+C:\Proyecto Tarjetas\PinPad\Tester_PP\obj\Debug\Tester_PP.Resources.resources
+C:\Proyecto Tarjetas\PinPad\Tester_PP\obj\Debug\Tester_PP.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\PinPad\Tester_PP\obj\Debug\Tester_PP.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\PinPad\Tester_PP\obj\Debug\Tester_PP.vbproj.CopyComplete
+C:\Proyecto Tarjetas\PinPad\Tester_PP\obj\Debug\Tester_PP.exe
+C:\Proyecto Tarjetas\PinPad\Tester_PP\obj\Debug\Tester_PP.xml
+C:\Proyecto Tarjetas\PinPad\Tester_PP\obj\Debug\Tester_PP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\app.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\Newtonsoft.Json.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\Tester_PP.exe.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\Tester_PP.exe
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\Tester_PP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\Tester_PP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\ClienteTCP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\lib_PEI.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\lib_PP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\lib_QR.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\TransmisorTCP.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\VxCrypter.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\ClienteTCP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\ClienteTCP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\lib_PEI.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\lib_PEI.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\lib_PEI.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\lib_PP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\lib_PP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\lib_PP.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\lib_QR.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\lib_QR.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\TransmisorTCP.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\bin\Debug\TransmisorTCP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\obj\Debug\Tester_PP.vbproj.AssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\obj\Debug\Tester_PP.Form1.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\obj\Debug\Tester_PP.FormQR.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\obj\Debug\Tester_PP.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\obj\Debug\Tester_PP.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\obj\Debug\Tester_PP.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\obj\Debug\Tester_PP.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\obj\Debug\Tester_PP.exe
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\obj\Debug\Tester_PP.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\Tester_PP\obj\Debug\Tester_PP.pdb

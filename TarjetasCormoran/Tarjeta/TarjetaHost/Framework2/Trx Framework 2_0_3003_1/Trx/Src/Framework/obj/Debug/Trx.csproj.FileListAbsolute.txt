@@ -1,0 +1,7 @@
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework2\Trx Framework 2_0_3003_1\Trx\Src\Framework\bin\Debug\Trx.dll.log4net
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework2\Trx Framework 2_0_3003_1\Trx\Src\Framework\bin\Debug\Trx.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework2\Trx Framework 2_0_3003_1\Trx\Src\Framework\bin\Debug\Trx.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework2\Trx Framework 2_0_3003_1\Trx\Src\Framework\bin\Debug\log4net.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework2\Trx Framework 2_0_3003_1\Trx\Src\Framework\obj\Debug\Trx.csprojResolveAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework2\Trx Framework 2_0_3003_1\Trx\Src\Framework\obj\Debug\Trx.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework2\Trx Framework 2_0_3003_1\Trx\Src\Framework\obj\Debug\Trx.pdb

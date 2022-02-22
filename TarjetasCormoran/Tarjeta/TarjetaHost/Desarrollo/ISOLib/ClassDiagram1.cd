@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IsoLib.Iso8583messagePOS">
+    <Position X="0.75" Y="9" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAEAABAAAAgAAhAAAAAAAAAABAQA=</HashCode>
+      <FileName>Iso8583messagePOS.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trx.Messaging.Iso8583.Iso8583MessageFormatter">
+    <Position X="4" Y="0.5" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Trx.Messaging.Iso8583.Iso8583Message">
+    <Position X="0.75" Y="3.5" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="IsoLib.PeerRequestPOS">
+    <Position X="7.75" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAABAAAAAA=</HashCode>
+      <FileName>PeerRequestPOS.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoLib.Escuchador" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>REBglIDGOGoCBBzEomExQiIJTi0AIAQUCBwgHQaAAoY=</HashCode>
+      <FileName>Escuchador.vb</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="IsoLib.Iso8583MessageFormatterPOS">
+    <Position X="4.25" Y="4.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAABA=</HashCode>
+      <FileName>Iso8583MessageFormatterPOS.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IsoLib.ClientePeerLlamador">
+    <Position X="8.25" Y="11.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAACAAAAAAiAAAAACAAAABAAAAAAAQAQAAIAAAA=</HashCode>
+      <FileName>ClientePeerLlamador.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trx.Messaging.FlowControl.ClientPeer" Collapsed="true">
+    <Position X="7.5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Trx.Messaging.FlowControl.ListenerPeer">
+    <Position X="6.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Trx.Messaging.FlowControl.Peer" Collapsed="true">
+    <Position X="6.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Trx.Messaging.FlowControl.PeerRequest">
+    <Position X="7.75" Y="0.5" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Trx.Messaging.FlowControl.ServerPeer" Collapsed="true">
+    <Position X="5" Y="10" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Trx.Messaging.Channels.FourBytesAsciiHeaderChannel" Collapsed="true">
+    <Position X="0.5" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Trx.Messaging.Channels.FourBytesNboHeaderChannel" Collapsed="true">
+    <Position X="5" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Trx.Messaging.Channels.TcpChannel" Collapsed="true">
+    <Position X="2.75" Y="14" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Trx.Messaging.Channels.TwoBytesNboHeaderChannel" Collapsed="true">
+    <Position X="2.75" Y="15.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Trx.Messaging.FieldFormatter">
+    <Position X="0.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

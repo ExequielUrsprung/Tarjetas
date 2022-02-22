@@ -1,0 +1,11 @@
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\IsoLibCaja\bin\Debug\IsoLibCaja.exe.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\IsoLibCaja\bin\Debug\IsoLibCaja.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\IsoLibCaja\bin\Debug\IsoLibCaja.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\IsoLibCaja\bin\Debug\IsoLibCaja.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\IsoLibCaja\obj\Debug\IsoLibCaja.Resources.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\IsoLibCaja\obj\Debug\IsoLibCaja_vs2008.vbproj.GenerateResource.Cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\IsoLibCaja\obj\Debug\IsoLibCaja.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\IsoLibCaja\obj\Debug\IsoLibCaja.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\IsoLibCaja\obj\Debug\IsoLibCaja.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\IsoLibCaja\obj\Debug\IsoLibCaja_vs2008.vbprojResolveAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\IsoLibCaja\obj\Debug\IsoLibCaja_vs2008.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+C:\Proyecto Tarjetas\Depurador\Depurador\bin\Release\Depurador.exe.config
+C:\Proyecto Tarjetas\Depurador\Depurador\bin\Release\Depurador.exe
+C:\Proyecto Tarjetas\Depurador\Depurador\bin\Release\Depurador.pdb
+C:\Proyecto Tarjetas\Depurador\Depurador\bin\Release\Depurador.xml
+C:\Proyecto Tarjetas\Depurador\Depurador\obj\Release\Depurador.Form1.resources
+C:\Proyecto Tarjetas\Depurador\Depurador\obj\Release\Depurador.Resources.resources
+C:\Proyecto Tarjetas\Depurador\Depurador\obj\Release\Depurador.vbproj.GenerateResource.Cache
+C:\Proyecto Tarjetas\Depurador\Depurador\obj\Release\Depurador.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\Depurador\Depurador\obj\Release\Depurador.exe
+C:\Proyecto Tarjetas\Depurador\Depurador\obj\Release\Depurador.xml
+C:\Proyecto Tarjetas\Depurador\Depurador\obj\Release\Depurador.pdb
+C:\Proyecto Tarjetas\Depurador\Depurador\obj\Release\Depurador.vbprojResolveAssemblyReference.cache

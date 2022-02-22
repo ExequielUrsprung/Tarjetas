@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConcentradorQR", "ConcentradorQR\ConcentradorQR.vbproj", "{3D29034F-5C9F-45A2-AC84-5AD69F105E38}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ServerQR", "ServerQR\ServerQR.vbproj", "{6C5459F4-5A33-4091-B8E9-1BCA3C280321}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "lib_QR", "..\..\PinPad\lib_QR\lib_QR.vbproj", "{CC7F1840-EE2D-4BB2-8051-E8750C5DE785}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TjComun", "TjComun\TjComun.vbproj", "{8A6B7FC7-BCA0-485F-B932-1B82D472E52B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D29034F-5C9F-45A2-AC84-5AD69F105E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D29034F-5C9F-45A2-AC84-5AD69F105E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D29034F-5C9F-45A2-AC84-5AD69F105E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D29034F-5C9F-45A2-AC84-5AD69F105E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C5459F4-5A33-4091-B8E9-1BCA3C280321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C5459F4-5A33-4091-B8E9-1BCA3C280321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C5459F4-5A33-4091-B8E9-1BCA3C280321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C5459F4-5A33-4091-B8E9-1BCA3C280321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7F1840-EE2D-4BB2-8051-E8750C5DE785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7F1840-EE2D-4BB2-8051-E8750C5DE785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7F1840-EE2D-4BB2-8051-E8750C5DE785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7F1840-EE2D-4BB2-8051-E8750C5DE785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6B7FC7-BCA0-485F-B932-1B82D472E52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6B7FC7-BCA0-485F-B932-1B82D472E52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6B7FC7-BCA0-485F-B932-1B82D472E52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6B7FC7-BCA0-485F-B932-1B82D472E52B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDBAB83C-25A9-4043-ACF2-5C540C4E0242}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cormoran2015.visualstudio.com/
+		SccProjectUniqueName0 = ..\\..\\PinPad\\lib_QR\\lib_QR.vbproj
+		SccProjectName0 = ../../Pinpad\u0020EMV/lib_QR
+		SccLocalPath0 = ..\\..\\PinPad\\lib_QR
+		SccLocalPath1 = .
+		SccProjectUniqueName2 = ConcentradorQR\\ConcentradorQR.vbproj
+		SccProjectName2 = ConcentradorQR
+		SccLocalPath2 = ConcentradorQR
+		SccProjectUniqueName3 = ServerQR\\ServerQR.vbproj
+		SccProjectName3 = ServerQR
+		SccLocalPath3 = ServerQR
+		SccProjectUniqueName4 = TjComun\\TjComun.vbproj
+		SccProjectName4 = TjComun
+		SccLocalPath4 = TjComun
+	EndGlobalSection
+EndGlobal

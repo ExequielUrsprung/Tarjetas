@@ -1,0 +1,125 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ClienteTCP
+</name>
+</assembly>
+<members>
+<member name="T:ClienteTCP.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ClienteTCP.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ClienteTCP.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:ClienteTCP.Cliente.Enviar_TransaccionDev(lib_PP.ConectorPP,System.Int32,System.Decimal,System.Decimal,System.Int32,System.String,System.String,System.String,System.Int32,TransmisorTCP.MensajeIda@)">
+ <summary>
+ Para devolucion.
+ </summary>
+ <param name="conector"></param>
+ <param name="cuotas"></param>
+ <param name="importe"></param>
+ <param name="cashback"></param>
+ <param name="cajera"></param>
+ <param name="clave"></param>
+ <param name="fechaOri"></param>
+ <param name="ticketori"></param>
+ <returns></returns>
+</member>
+<member name="M:ClienteTCP.Cliente.Enviar_Transaccion(lib_PP.ConectorPP,System.Int32,System.Decimal,System.Decimal,System.Int32,System.String,System.String,System.String,TransmisorTCP.TipoMensaje,System.Int32,TransmisorTCP.MensajeIda@,System.String)">
+ <summary>
+ Para anulacion.
+ </summary>
+ <param name="conector"></param>
+ <param name="cuotas"></param>
+ <param name="importe"></param>
+ <param name="cashback"></param>
+ <param name="cajera"></param>
+ <param name="clave"></param>
+ <param name="retrefnumber"></param>
+ <param name="ticketori"></param>
+ <returns></returns>
+</member>
+<member name="M:ClienteTCP.Cliente.Enviar_Transaccion(lib_PP.ConectorPP,System.Int32,System.Decimal,System.Decimal,System.Int32,System.String,TransmisorTCP.TipoMensaje,TransmisorTCP.MensajeIda@,System.String)">
+ <summary>
+ Para compra
+ </summary>
+ <param name="conector"></param>
+ <param name="cuotas"></param>
+ <param name="importe"></param>
+ <param name="cashback"></param>
+ <param name="ticket"></param>
+ <param name="clave"></param>
+ <param name="tipoTrx"></param>
+ <returns></returns>
+</member>
+<member name="M:ClienteTCP.Cliente.Enviar_Transaccion_CL(lib_PP.ConectorPP,System.Int32,System.Decimal,System.Decimal,System.Int32,System.String,TransmisorTCP.TipoMensaje,System.String,System.Int32,TransmisorTCP.MensajeIda@,System.String)">
+ <summary>
+ Para anulacion contactless
+ </summary>
+ <param name="conector"></param>
+ <param name="cuotas"></param>
+ <param name="importe"></param>
+ <param name="cashback"></param>
+ <param name="ticket"></param>
+ <param name="clave"></param>
+ <param name="tipoTrx"></param>
+ <returns></returns>
+</member>
+<member name="M:ClienteTCP.Cliente.Enviar_Transaccion_CL(lib_PP.ConectorPP,System.Int32,System.Decimal,System.Decimal,System.String,System.Int32,System.String,System.Int32,TransmisorTCP.MensajeIda@,System.String)">
+ <summary>
+ Para devolucion contactless
+ </summary>
+ <param name="conector"></param>
+ <param name="cuotas"></param>
+ <param name="importe"></param>
+ <param name="cashback"></param>
+ <param name="clave"></param>
+ <param name="tktori"></param>
+ <param name="fecori">Formato ddMMyy</param>
+ <param name="rev"></param>
+ <returns></returns>
+</member>
+<member name="M:ClienteTCP.Cliente.Enviar_Transaccion_CL(lib_PP.ConectorPP,System.Int32,System.Decimal,System.Decimal,System.Int32,System.String,TransmisorTCP.TipoMensaje,TransmisorTCP.MensajeIda@,System.String)">
+ <summary>
+ Para compra contactless
+ </summary>
+ <param name="conector"></param>
+ <param name="cuotas"></param>
+ <param name="importe"></param>
+ <param name="cashback"></param>
+ <param name="ticket"></param>
+ <param name="clave"></param>
+ <param name="tipoTrx"></param>
+ <returns></returns>
+</member>
+<member name="M:ClienteTCP.Cliente.DevolucionMM(System.Int32,System.Decimal,System.Decimal,System.Int32,System.Int32,System.String)">
+ <summary>
+ Devolucion MultiModo
+ </summary>
+ <param name="plan">Plan Original</param>
+ <param name="importe">Importe a devolver.</param>
+ <param name="cashback">Monto cashback a devolver</param>
+ <param name="ticketcaja">Nro de comprobante de la caja, de la operacion original</param>
+ <param name="ticketoriginal">Numero de cupón de la transacción original</param>
+ <param name="fechaOriginal">Fecha de la transaccón original (Formato ddmmyy)</param>
+ <returns></returns>
+</member>
+<member name="M:ClienteTCP.Cliente.Sincronizar">
+ <summary>
+ Sincroniza el pinpad, para su uso si es necesario. Devuelve 6 si se sincronizo ok.
+ </summary>
+ <returns></returns>
+</member>
+</members>
+</doc>

@@ -1,0 +1,10 @@
+C:\Proyecto Tarjetas\Depurador\Compactador\bin\Release\Compactador.dll
+C:\Proyecto Tarjetas\Depurador\Compactador\bin\Release\Compactador.pdb
+C:\Proyecto Tarjetas\Depurador\Compactador\bin\Release\Compactador.xml
+C:\Proyecto Tarjetas\Depurador\Compactador\obj\Release\Compactador.vbprojResolveAssemblyReference.cache
+C:\Proyecto Tarjetas\Depurador\Compactador\obj\Release\Compactador.Resources.resources
+C:\Proyecto Tarjetas\Depurador\Compactador\obj\Release\Compactador.vbproj.GenerateResource.Cache
+C:\Proyecto Tarjetas\Depurador\Compactador\obj\Release\Compactador.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\Depurador\Compactador\obj\Release\Compactador.dll
+C:\Proyecto Tarjetas\Depurador\Compactador\obj\Release\Compactador.xml
+C:\Proyecto Tarjetas\Depurador\Compactador\obj\Release\Compactador.pdb

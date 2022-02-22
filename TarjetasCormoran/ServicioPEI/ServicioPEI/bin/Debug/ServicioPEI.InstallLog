@@ -1,0 +1,47 @@
+﻿Instalando ensamblado 'C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.InstallLog
+   assemblypath = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe.
+Confirmando ensamblado 'C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.InstallLog
+   assemblypath = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe.
+Quitar el archivo InstallState porque no hay instaladores.
+Instalando ensamblado 'C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.InstallLog
+   assemblypath = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe.
+Confirmando ensamblado 'C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.InstallLog
+   assemblypath = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe.
+Quitar el archivo InstallState porque no hay instaladores.
+Instalando ensamblado 'C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.InstallLog
+   assemblypath = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe
+Instalando el servicio ServicioPEI...
+El servicio ServicioPEI se ha instalado correctamente.
+Creando el origen de EventLog ServicioPEI en el registro Application...
+Confirmando ensamblado 'C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.InstallLog
+   assemblypath = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe
+Desinstalando ensamblado 'C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.InstallLog
+   assemblypath = C:\Proyecto Tarjetas\ServicioPEI\ServicioPEI\bin\Debug\ServicioPEI.exe
+Quitando el origen de EventLog ServicioPEI.
+Se está quitando el servicio ServicioPEI del sistema...
+El servicio ServicioPEI se ha quitado correctamente del sistema.

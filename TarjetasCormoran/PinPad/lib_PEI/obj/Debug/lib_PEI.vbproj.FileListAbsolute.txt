@@ -1,0 +1,33 @@
+C:\Proyecto Tarjetas\PinPad\lib_PEI\bin\Debug\Newtonsoft.Json.dll
+C:\Proyecto Tarjetas\PinPad\lib_PEI\bin\Debug\lib_PEI.dll
+C:\Proyecto Tarjetas\PinPad\lib_PEI\bin\Debug\lib_PEI.pdb
+C:\Proyecto Tarjetas\PinPad\lib_PEI\bin\Debug\lib_PEI.xml
+C:\Proyecto Tarjetas\PinPad\lib_PEI\bin\Debug\TjComun.dll
+C:\Proyecto Tarjetas\PinPad\lib_PEI\bin\Debug\VxCrypter.dll
+C:\Proyecto Tarjetas\PinPad\lib_PEI\bin\Debug\TjComun.pdb
+C:\Proyecto Tarjetas\PinPad\lib_PEI\bin\Debug\TjComun.xml
+C:\Proyecto Tarjetas\PinPad\lib_PEI\obj\Debug\lib_PEI.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\PinPad\lib_PEI\obj\Debug\lib_PEI.Resources.resources
+C:\Proyecto Tarjetas\PinPad\lib_PEI\obj\Debug\lib_PEI.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\PinPad\lib_PEI\obj\Debug\lib_PEI.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\PinPad\lib_PEI\obj\Debug\lib_PEI.vbproj.CopyComplete
+C:\Proyecto Tarjetas\PinPad\lib_PEI\obj\Debug\lib_PEI.dll
+C:\Proyecto Tarjetas\PinPad\lib_PEI\obj\Debug\lib_PEI.xml
+C:\Proyecto Tarjetas\PinPad\lib_PEI\obj\Debug\lib_PEI.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\bin\Debug\Newtonsoft.Json.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\bin\Debug\lib_PEI.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\bin\Debug\lib_PEI.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\bin\Debug\lib_PEI.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\bin\Debug\lib_PEI.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\bin\Debug\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\bin\Debug\VxCrypter.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\bin\Debug\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\bin\Debug\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\obj\Debug\lib_PEI.vbproj.AssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\obj\Debug\lib_PEI.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\obj\Debug\lib_PEI.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\obj\Debug\lib_PEI.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\obj\Debug\lib_PEI.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\obj\Debug\lib_PEI.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\obj\Debug\lib_PEI.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_PEI\obj\Debug\lib_PEI.pdb

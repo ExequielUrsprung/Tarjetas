@@ -1,0 +1,664 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+lib_PP
+</name>
+</assembly>
+<members>
+<member name="T:lib_PP.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:lib_PP.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:lib_PP.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="M:lib_PP.ConectorPPSinEncripcion.Esperar_Respuesta(System.Int32)">
+ <summary>
+ Espera un tiempo pasado como parametro a que llegue la respuesta desde el pinpad.
+ 0=Llego respuesta, 7=dio timeout.
+ </summary>
+ <param name="timeout">Tiempo de espera en segundos.</param>
+</member>
+<member name="M:lib_PP.ConectorPP.Esperar_Respuesta(System.Int32)">
+ <summary>
+ Espera un tiempo pasado como parametro a que llegue la respuesta desde el pinpad.
+ 0=Llego respuesta, 7=dio timeout.
+ </summary>
+ <param name="timeout">Tiempo de espera en segundos.</param>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.DatosRecibidos">
+ <summary>
+ Este evento devuelve la cadena de respuesta completa.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.Y00Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y00.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.Y01Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y01.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.Y41Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y01.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.Y02Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y02.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.Y03Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y03.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.Y04Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y04.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.Y21Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y21.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.Y31Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y31.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.Y0ERecibido">
+ <summary>
+ Este evento se ejecuta cuando fue recibido un error Y0E desde el pinpad.
+ </summary>
+ <param name="comando">Comando que produjo el error.</param>
+ <param name="x">Descripción del error.</param>
+ <param name="nro">Nro del error.</param>
+ <param name="extendido">Descripción extendida.</param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.S00Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando S03.
+ </summary>
+ <param name="x">Descripción del error.</param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.S01Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando S03.
+ </summary>
+ <param name="x">Descripción del error.</param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.S02Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando S03.
+ </summary>
+ <param name="x">Descripción del error.</param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.S03Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando S03.
+ </summary>
+ <param name="x">Descripción del error.</param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.ErrorTransmision">
+ <summary>
+ Este evento se produce cuando falla el control LRC del paquete recibido.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2_VX690.PinRecibido">
+ <summary>
+ Este evento se produce cuando se ingresa el pin por el pinpad.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:lib_PP.PinPadFD_V2_VX690.GetPrintableBuffer(System.String,System.Byte[],System.Int32,System.Int32)">
+ <summary>
+ Devuelve la representación ascii de la cadena enviada al PP.
+ </summary>
+ <param name="prefix"></param>
+ <param name="data"></param>
+ <param name="offset"></param>
+ <param name="len"></param>
+ <returns></returns>
+</member>
+<member name="M:lib_PP.PinPadFD_V2_VX690.hexastring(System.Byte[])">
+ <summary>
+ Convierte una array de byte en un string.
+ </summary>
+ <param name="tex"></param>
+ <returns></returns>
+</member>
+<member name="M:lib_PP.PinPadFD_V2_VX690.Pedir_Tarjeta_Compra(lib_PP.Tipos_transacciones)">
+ <summary>
+ Envia petición al pinpad para ingreso de tarjeta sin esperar respuesta. 
+ Se usa con manejo del evento Y01Recibido.
+ </summary>
+</member>
+<member name="M:lib_PP.PinPadFD_V2_VX690.Pedir_Tarjeta(lib_PP.Tipos_transacciones,System.Boolean)">
+ <summary>
+ Solicita tarjeta de compra para dar inicio a la transacción.
+ </summary>
+ <param name="tipo"></param>
+ <param name="sincronizarFechaHora">True si sincroniza Fecha y Hora actual del equipo en donde se encuentra conectado el PP</param>
+</member>
+<member name="M:lib_PP.PinPadFD_V2_VX690.Solicitar_Datos_Adicionales_prisma(System.Boolean,System.Boolean,System.Boolean,System.String,System.String,System.String,System.Decimal,System.Decimal)">
+ <summary>
+ Solicita los datos adicionales segun la tarjeta. Sin timeout.
+ </summary>
+ <param name="pU4D">Solicita Ultimos 4 digitos</param>
+ <param name="pCDS">Solicita Codigo de seguridad</param>
+ <param name="pSPI">Solicita PIN</param>
+ <param name="pWKD">Working Key de datos o N si no encripta.</param>
+ <param name="pWKP">Working Key de pines o N si no envía no pide PIN.</param>
+ <param name="posicionMK">Posición de la MK de 0 a 9 o N si no encripta.</param>
+ <param name="pIMP">Importe, los ultimos 2 son los decimales, pasar sin coma y las 12 posiciones</param>
+ <param name="pICB">Importe Cashback, los ultimos 2 son los decimales, pasar sin coma y las 12 posiciones</param>
+</member>
+<member name="M:lib_PP.PinPadFD_V2_VX690.Solicitar_Datos_Adicionales_FD(System.Boolean,System.Boolean,System.Boolean,System.String,System.String,System.String,System.Decimal,System.Decimal)">
+ <summary>
+ Solicita los datos adicionales segun la tarjeta. Sin timeout.
+ </summary>
+ <param name="pU4D">Solicita Ultimos 4 digitos</param>
+ <param name="pCDS">Solicita Codigo de seguridad</param>
+ <param name="pSPI">Solicita PIN</param>
+ <param name="pWKD">Working Key de datos o N si no encripta.</param>
+ <param name="pWKP">Working Key de pines o N si no envía no pide PIN.</param>
+ <param name="posicionMK">Posición de la MK de 0 a 9 o N si no encripta.</param>
+ <param name="pIMP">Importe, los ultimos 2 son los decimales, pasar sin coma y las 12 posiciones</param>
+ <param name="pICB">Importe Cashback, los ultimos 2 son los decimales, pasar sin coma y las 12 posiciones</param>
+</member>
+<member name="M:lib_PP.PinPadFD_V2_VX690.Datos_Respuesta_Emisor(System.String,System.String,System.Boolean,System.String)">
+ <summary>
+ Sin Timout
+ </summary>
+ <param name="pAut"></param>
+ <param name="pRespEmi"></param>
+ <param name="pRecibe"></param>
+ <param name="pCripto"></param>
+</member>
+<member name="M:lib_PP.PinPadFD_V2_VX690.Pedir_Tarjeta_Compra_CL(lib_PP.Tipos_transacciones,System.Boolean,System.Decimal,System.Decimal,System.String,System.String)">
+ <summary>
+ Envia petición al pinpad para ingreso de tarjeta Contactless sin esperar respuesta. 
+ Se usa con manejo del evento Y21Recibido.
+ </summary>
+</member>
+<member name="M:lib_PP.PinPadFD_V2_VX690.Pedir_Tarjeta_MultiModo(lib_PP.Tipos_transacciones)">
+ <summary>
+ Envia petición al pinpad para ingreso de tarjeta sin esperar respuesta. 
+ Se usa con manejo del evento Y01Recibido.
+ </summary>
+</member>
+<member name="M:lib_PP.PinPadFD_V2_VX690.Pedir_Tarjeta_MultiModo(lib_PP.Tipos_transacciones,System.Boolean,System.String,System.String,System.String,System.Decimal,System.Decimal)">
+ <summary>
+ Solicita tarjeta de compra para dar inicio a la transacción.
+ </summary>
+ <param name="tipo"></param>
+ <param name="sincronizarFechaHora">True si sincroniza Fecha y Hora actual del equipo en donde se encuentra conectado el PP</param>
+</member>
+<member name="M:lib_PP.PinPadFD_V2_VX690.Sincronizar_PinPad(System.String,System.String)">
+ <summary>
+ Verifica si se debe sincronizar el PinPad.
+ </summary>
+ <param name="pTerminal"></param>
+ <param name="pSerieFisico"></param>
+</member>
+<member name="M:lib_PP.PinPadFD_V2_VX690.Lrc(System.String)">
+ <summary>
+ Digito de comprobación de errores LRC.
+ </summary>
+ <param name="cad"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.DatosRecibidos">
+ <summary>
+ Este evento devuelve la cadena de respuesta completa.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.Y00Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y00.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.Y01Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y01.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.Y02Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y02.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.Y03Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y03.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.Y21Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y01.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.Y0ERecibido">
+ <summary>
+ Este evento se ejecuta cuando fue recibido un error Y0E desde el pinpad.
+ </summary>
+ <param name="comando">Comando que produjo el error.</param>
+ <param name="x">Descripción del error.</param>
+ <param name="nro">Nro del error.</param>
+ <param name="extendido">Descripción extendida.</param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.S00Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando S03.
+ </summary>
+ <param name="x">Descripción del error.</param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.S01Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando S03.
+ </summary>
+ <param name="x">Descripción del error.</param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.S02Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando S03.
+ </summary>
+ <param name="x">Descripción del error.</param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.S03Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando S03.
+ </summary>
+ <param name="x">Descripción del error.</param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.ErrorTransmision">
+ <summary>
+ Este evento se produce cuando falla el control LRC del paquete recibido.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD_V2.PinRecibido">
+ <summary>
+ Este evento se produce cuando se ingresa el pin por el pinpad.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:lib_PP.PinPadFD_V2.GetPrintableBuffer(System.String,System.Byte[],System.Int32,System.Int32)">
+ <summary>
+ Devuelve la representación ascii de la cadena enviada al PP.
+ </summary>
+ <param name="prefix"></param>
+ <param name="data"></param>
+ <param name="offset"></param>
+ <param name="len"></param>
+ <returns></returns>
+</member>
+<member name="M:lib_PP.PinPadFD_V2.hexastring(System.Byte[])">
+ <summary>
+ Convierte una array de byte en un string.
+ </summary>
+ <param name="tex"></param>
+ <returns></returns>
+</member>
+<member name="M:lib_PP.PinPadFD_V2.Pedir_Tarjeta_Compra(lib_PP.Tipos_transacciones)">
+ <summary>
+ Envia petición al pinpad para ingreso de tarjeta sin esperar respuesta. 
+ Se usa con manejo del evento Y01Recibido.
+ </summary>
+</member>
+<member name="M:lib_PP.PinPadFD_V2.Pedir_Tarjeta(lib_PP.Tipos_transacciones,System.Boolean)">
+ <summary>
+ Solicita tarjeta de compra para dar inicio a la transacción.
+ </summary>
+ <param name="tipo"></param>
+ <param name="sincronizarFechaHora">True si sincroniza Fecha y Hora actual del equipo en donde se encuentra conectado el PP</param>
+</member>
+<member name="M:lib_PP.PinPadFD_V2.Solicitar_Datos_Adicionales_prisma(System.Boolean,System.Boolean,System.Boolean,System.String,System.String,System.String,System.Decimal,System.Decimal)">
+ <summary>
+ Solicita los datos adicionales segun la tarjeta. Sin timeout.
+ </summary>
+ <param name="pU4D">Solicita Ultimos 4 digitos</param>
+ <param name="pCDS">Solicita Codigo de seguridad</param>
+ <param name="pSPI">Solicita PIN</param>
+ <param name="pWKD">Working Key de datos o N si no encripta.</param>
+ <param name="pWKP">Working Key de pines o N si no envía no pide PIN.</param>
+ <param name="posicionMK">Posición de la MK de 0 a 9 o N si no encripta.</param>
+ <param name="pIMP">Importe, los ultimos 2 son los decimales, pasar sin coma y las 12 posiciones</param>
+ <param name="pICB">Importe Cashback, los ultimos 2 son los decimales, pasar sin coma y las 12 posiciones</param>
+</member>
+<member name="M:lib_PP.PinPadFD_V2.Solicitar_Datos_Adicionales_FD(System.Boolean,System.Boolean,System.Boolean,System.String,System.String,System.String,System.Decimal,System.Decimal)">
+ <summary>
+ Solicita los datos adicionales segun la tarjeta. Sin timeout.
+ </summary>
+ <param name="pU4D">Solicita Ultimos 4 digitos</param>
+ <param name="pCDS">Solicita Codigo de seguridad</param>
+ <param name="pSPI">Solicita PIN</param>
+ <param name="pWKD">Working Key de datos o N si no encripta.</param>
+ <param name="pWKP">Working Key de pines o N si no envía no pide PIN.</param>
+ <param name="posicionMK">Posición de la MK de 0 a 9 o N si no encripta.</param>
+ <param name="pIMP">Importe, los ultimos 2 son los decimales, pasar sin coma y las 12 posiciones</param>
+ <param name="pICB">Importe Cashback, los ultimos 2 son los decimales, pasar sin coma y las 12 posiciones</param>
+</member>
+<member name="M:lib_PP.PinPadFD_V2.Datos_Respuesta_Emisor(System.String,System.String,System.Boolean,System.String)">
+ <summary>
+ Sin Timout
+ </summary>
+ <param name="pAut"></param>
+ <param name="pRespEmi"></param>
+ <param name="pRecibe"></param>
+ <param name="pCripto"></param>
+</member>
+<member name="M:lib_PP.PinPadFD_V2.Pedir_Tarjeta_Compra_CL(lib_PP.Tipos_transacciones)">
+ <summary>
+ Envia petición al pinpad para ingreso de tarjeta Contactless sin esperar respuesta. 
+ Se usa con manejo del evento Y21Recibido.
+ </summary>
+</member>
+<member name="M:lib_PP.PinPadFD_V2.Sincronizar_PinPad(System.String,System.String)">
+ <summary>
+ Verifica si se debe sincronizar el PinPad.
+ </summary>
+ <param name="pTerminal"></param>
+ <param name="pSerieFisico"></param>
+</member>
+<member name="M:lib_PP.PinPadFD_V2.Lrc(System.String)">
+ <summary>
+ Digito de comprobación de errores LRC.
+ </summary>
+ <param name="cad"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadVISA.DatosRecibidos">
+ <summary>
+ Este evento devuelve la cadena de respuesta completa.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadVISA.Y00Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y00.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadVISA.Y01Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y01.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadVISA.Y02Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y02.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadVISA.Y03Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y03.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadVISA.Y0ERecibido">
+ <summary>
+ Este evento se ejecuta cuando fue recibido un error Y0E desde el pinpad.
+ </summary>
+ <param name="comando">Comando que produjo el error.</param>
+ <param name="x">Descripción del error.</param>
+ <param name="nro">Nro del error.</param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadVISA.ErrorTransmision">
+ <summary>
+ Este evento se produce cuando falla el control LRC del paquete recibido.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadVISA.PinRecibido">
+ <summary>
+ Este evento se produce cuando se ingresa el pin por el pinpad.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:lib_PP.PinPadVISA.Pedir_Tarjeta_Compra">
+ <summary>
+ Envia petición al pinpad para ingreso de tarjeta sin esperar respuesta. 
+ Se usa con manejo del evento Y01Recibido.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:lib_PP.PinPadVISA.hexastring(System.Byte[])">
+ <summary>
+ Convierte una array de byte en un string.
+ </summary>
+ <param name="tex"></param>
+ <returns></returns>
+</member>
+<member name="M:lib_PP.PinPadVISA.StringToByte(System.String)">
+ <summary>
+ Convierte un string en un array de bytes
+ </summary>
+ <param name="hex"></param>
+ <returns></returns>
+</member>
+<member name="M:lib_PP.PinPadVISA.Pedir_Tarjeta_Compra(System.Int32)">
+ <summary>
+ Envia Petición al pinpad para ingreso de tarjeta y espera respuesta.
+ Respuestas 0=Recibido OK, 1=TIMEOUT, 2=Error
+ </summary>
+ <param name="timeout">Tiempo de espera máximo antes de cancelar la petición.</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:lib_PP.PinPadVISA.Pedir_Tarjeta_Cashback">
+ <summary>
+ Envia petición al pinpad para ingreso de tarjeta sin esperar respuesta. 
+ Se usa con manejo del evento Y01Recibido. Para transacciones con cashback.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:lib_PP.PinPadVISA.Pedir_Tarjeta_Cashback(System.Int32)">
+ <summary>
+ Envia Petición al pinpad para ingreso de tarjeta y espera respuesta. Compra + Cashback.
+ Respuestas 0=Recibido OK, 1=TIMEOUT, 2=Error
+ </summary>
+ <param name="timeout">Tiempo de espera máximo antes de cancelar la petición.</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:lib_PP.PinPadVISA.Pedir_Datos_Adicionales(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.String,System.String,System.Boolean,System.Boolean,System.String,System.String)">
+ <summary>
+ Solicita los datos adicionales segun la tarjeta. Sin timeout.
+ </summary>
+ <param name="pU4D">Solicita Ultimos 4 digitos</param>
+ <param name="pCDS">Solicita Codigo de seguridad</param>
+ <param name="pET1">Envia Track 1</param>
+ <param name="pSPI">Solicita PIN</param>
+ <param name="pPMK">Posicion de la MasterKey</param>
+ <param name="pWK">Working Key</param>
+ <param name="pENC">Encripta</param>
+ <param name="pPTC">Solicita Tipo de cuenta</param>
+ <param name="pIMP">Importe, los ultimos 2 son los decimales, pasar sin coma y las 12 posiciones</param>
+ <param name="pICB">Importe Cashback, los ultimos 2 son los decimales, pasar sin coma y las 12 posiciones</param>
+</member>
+<member name="M:lib_PP.PinPadVISA.Cancelar_Pin">
+ <summary>
+ Cancelación de pedido de pin.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:lib_PP.PinPadVISA.ObtenerPin(System.String,System.String)">
+ <summary>
+ Pide Pin por pinpad y devuelve 0-Reintentar, 1-Pin OK, 2-Error.
+ El pin encriptado hay que pedirlo mediante la propiedad GetPinEncript.
+ </summary>
+ <param name="pTarj">PAN</param>
+ <param name="pWk">WorkingKey</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:lib_PP.PinPadVISA.Lrc(System.String)">
+ <summary>
+ Digito de comprobación de errores LRC.
+ </summary>
+ <param name="cad"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD.DatosRecibidos">
+ <summary>
+ Este evento devuelve la cadena de respuesta completa.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD.Y00Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y00.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD.Y01Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y01.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD.Y02Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y02.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD.Y03Recibido">
+ <summary>
+ Este evento se produce cuando se recibe la respuesta del comando Y03.
+ </summary>
+ <param name="x"></param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD.Y0ERecibido">
+ <summary>
+ Este evento se ejecuta cuando fue recibido un error Y0E desde el pinpad.
+ </summary>
+ <param name="comando">Comando que produjo el error.</param>
+ <param name="x">Descripción del error.</param>
+ <param name="nro">Nro del error.</param>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD.ErrorTransmision">
+ <summary>
+ Este evento se produce cuando falla el control LRC del paquete recibido.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="E:lib_PP.PinPadFD.PinRecibido">
+ <summary>
+ Este evento se produce cuando se ingresa el pin por el pinpad.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:lib_PP.PinPadFD.Pedir_Tarjeta_Compra(lib_PP.Tipos_transacciones)">
+ <summary>
+ Envia petición al pinpad para ingreso de tarjeta sin esperar respuesta. 
+ Se usa con manejo del evento Y01Recibido.
+ </summary>
+</member>
+<member name="M:lib_PP.PinPadFD.Pedir_Datos_Adicionales(System.Boolean,System.Boolean,System.Boolean,System.Boolean,System.String,System.Boolean,System.Boolean,System.String,System.String)">
+ <summary>
+ Solicita los datos adicionales segun la tarjeta. Sin timeout.
+ </summary>
+ <param name="pU4D">Solicita Ultimos 4 digitos</param>
+ <param name="pCDS">Solicita Codigo de seguridad</param>
+ <param name="pET1">Envia Track 1</param>
+ <param name="pSPI">Solicita PIN</param>
+ <param name="pWK">Working Key</param>
+ <param name="pENC">Encripta</param>
+ <param name="pPTC">Solicita Tipo de cuenta</param>
+ <param name="pIMP">Importe, los ultimos 2 son los decimales, pasar sin coma y las 12 posiciones</param>
+ <param name="pICB">Importe Cashback, los ultimos 2 son los decimales, pasar sin coma y las 12 posiciones</param>
+</member>
+<member name="M:lib_PP.PinPadFD.Datos_Respuesta_Emisor(System.String,System.String,System.Boolean,System.String)">
+ <summary>
+ Sin Timout
+ </summary>
+ <param name="pAut"></param>
+ <param name="pRespEmi"></param>
+ <param name="pRecibe"></param>
+ <param name="pCripto"></param>
+</member>
+<member name="M:lib_PP.PinPadFD.Lrc(System.String)">
+ <summary>
+ Digito de comprobación de errores LRC.
+ </summary>
+ <param name="cad"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

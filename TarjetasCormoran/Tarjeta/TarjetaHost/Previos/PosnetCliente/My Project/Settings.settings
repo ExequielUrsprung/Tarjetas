@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Timeout" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">45000</Value>
+    </Setting>
+    <Setting Name="PortNumber" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">27851</Value>
+    </Setting>
+    <Setting Name="Host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">172.100.1.20</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

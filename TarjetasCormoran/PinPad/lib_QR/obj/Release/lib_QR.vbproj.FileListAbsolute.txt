@@ -1,0 +1,26 @@
+C:\Proyecto Tarjetas\PinPad\lib_QR\bin\Release\lib_QR.dll
+C:\Proyecto Tarjetas\PinPad\lib_QR\bin\Release\lib_QR.pdb
+C:\Proyecto Tarjetas\PinPad\lib_QR\bin\Release\lib_QR.xml
+C:\Proyecto Tarjetas\PinPad\lib_QR\bin\Release\log4net.dll
+C:\Proyecto Tarjetas\PinPad\lib_QR\bin\Release\Newtonsoft.Json.dll
+C:\Proyecto Tarjetas\PinPad\lib_QR\obj\Release\lib_QR.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\PinPad\lib_QR\obj\Release\lib_QR.Resources.resources
+C:\Proyecto Tarjetas\PinPad\lib_QR\obj\Release\lib_QR.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\PinPad\lib_QR\obj\Release\lib_QR.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\PinPad\lib_QR\obj\Release\lib_QR.vbproj.CopyComplete
+C:\Proyecto Tarjetas\PinPad\lib_QR\obj\Release\lib_QR.dll
+C:\Proyecto Tarjetas\PinPad\lib_QR\obj\Release\lib_QR.xml
+C:\Proyecto Tarjetas\PinPad\lib_QR\obj\Release\lib_QR.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\bin\Release\lib_QR.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\bin\Release\lib_QR.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\bin\Release\lib_QR.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\bin\Release\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\bin\Release\Newtonsoft.Json.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\obj\Release\lib_QR.vbproj.AssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\obj\Release\lib_QR.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\obj\Release\lib_QR.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\obj\Release\lib_QR.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\obj\Release\lib_QR.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\obj\Release\lib_QR.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\obj\Release\lib_QR.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\PinPad\lib_QR\obj\Release\lib_QR.pdb

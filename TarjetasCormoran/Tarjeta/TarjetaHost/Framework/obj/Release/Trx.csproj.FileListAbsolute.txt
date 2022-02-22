@@ -1,0 +1,27 @@
+C:\tarjetas\sistema\Trx.dll
+C:\tarjetas\sistema\Trx.xml
+C:\tarjetas\sistema\es\Trx.resources.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\bin\Release\Trx.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\bin\Release\Trx.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\bin\Release\es\Trx.resources.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\bin\Release\log4net.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.csprojAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.SR.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.SR.es.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.csproj.GenerateResource.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.csproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Release\es\Trx.resources.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.csproj.CopyComplete
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\bin\Release\Trx.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\bin\Release\Trx.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\bin\Release\es\Trx.resources.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\bin\Release\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.csprojAssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.SR.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.SR.es.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.csproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.csproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Release\es\Trx.resources.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.csproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Framework\obj\Release\Trx.dll

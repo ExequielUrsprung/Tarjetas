@@ -1,0 +1,297 @@
+26/09 02:22:47 -------------------------- INICIO SESION PEI -----------------------------
+26/09 02:22:54 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_26/09/2019_14:22
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+26/09 02:22:56 -------------------------- RESPUESTA INICIO SESION -----------------------------
+26/09 02:22:59 {"token":"mC1Ebz1DIofNgwzyEcyUsC9H6n7Y3q8zygMbUK65GQw1GREHliBHmczhsMObfxHo"}
+26/09 02:23:06 -------------------------- COMPRA PEI -----------------------------
+26/09 02:23:06 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/pagos/sinbilletera/td/mediopresente/bandamagnetica
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: PAGO_CORMORAN_26/09/2019_14:23
+                    cliente: 200.2.127.227
+                    token: mC1Ebz1DIofNgwzyEcyUsC9H6n7Y3q8zygMbUK65GQw1GREHliBHmczhsMObfxHo
+                <DATA>
+{
+  "pago": {
+    "posEntryMode": "902",
+    "tracks": {
+      "track1": "bVugtTsWyNN6wF5rbN5WKu81nirMID/FRuCOozhwVqtDBCUIniJTLb0kuFDOSNhqUIW0DX2VqHirxPqRZATuNVpJ/RQI17etTR/zAHiwdxZ4fCxUK297wCklfevtUkG0",
+      "track2": "AK74JSne0E5LRvag0smD9dD5ee6OFNErk/wZCekW00g9mrRXIXYDMIRyjhQkeokv8IAqel3i6cJOkgR4lFT9cQ=="
+    },
+    "numero": "1004",
+    "titularDocumento": "34000919",
+    "idCanal": "PEIBANDA",
+    "idTerminal": "PING01",
+    "idReferenciaTrxComercio": "14222606",
+    "idReferenciaOperacionComercio": "PAGOCORMORAN",
+    "importe": 1000,
+    "moneda": "ARS",
+    "codigoSeguridad": "QSohy6/4xxP01Mr51POnOqDMyOMLmIaHGX9WEbQKhd4=",
+    "concepto": "COMPRA_DE_BIENES"
+  }
+}
+26/09 02:23:06 {"pago":{"posEntryMode":"902","tracks":{"track1":"bVugtTsWyNN6wF5rbN5WKu81nirMID/FRuCOozhwVqtDBCUIniJTLb0kuFDOSNhqUIW0DX2VqHirxPqRZATuNVpJ/RQI17etTR/zAHiwdxZ4fCxUK297wCklfevtUkG0","track2":"AK74JSne0E5LRvag0smD9dD5ee6OFNErk/wZCekW00g9mrRXIXYDMIRyjhQkeokv8IAqel3i6cJOkgR4lFT9cQ=="},"numero":"1004","titularDocumento":"34000919","idCanal":"PEIBANDA","idTerminal":"PING01","idReferenciaTrxComercio":"14222606","idReferenciaOperacionComercio":"PAGOCORMORAN","importe":1000,"moneda":"ARS","codigoSeguridad":"QSohy6/4xxP01Mr51POnOqDMyOMLmIaHGX9WEbQKhd4=","concepto":"COMPRA_DE_BIENES"}}
+26/09 02:23:06 -------------------------- RESPUESTA COMPRA -----------------------------
+26/09 02:23:09 {
+  "codigo": "ERROR_GENERICO",
+  "descripcion": "[0199]"
+}
+26/09 02:23:09 Error en compra: Error en el servidor remoto: (400) Solicitud incorrecta.
+26/09 02:23:11 Status Code: 7
+26/09 02:23:11 Status Description: Bad Request - ERROR_GENERICO - [0199]
+26/09 02:23:21 -------------------------- CIERRE SESION PEI -----------------------------
+26/09 02:23:33 DELETE https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: FIN_CORMORAN_26/09/2019_14:23
+                    cliente: 200.2.127.227
+                    token: mC1Ebz1DIofNgwzyEcyUsC9H6n7Y3q8zygMbUK65GQw1GREHliBHmczhsMObfxHo
+26/09 02:23:35 -------------------------- RESPUESTA CIERRE SESION -----------------------------
+26/09 02:23:47 Sesion CERRADA
+26/09 03:14:16 -------------------------- INICIO SESION PEI -----------------------------
+26/09 03:14:20 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_26/09/2019_15:14
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+26/09 03:14:20 -------------------------- RESPUESTA INICIO SESION -----------------------------
+26/09 03:14:21 {"token":"FTE72DgJ9s5809ykmYztTxdaGQMjAGjzTaQbr2bQz5y07vCX9Z6fie7qE75P7EB3"}
+26/09 03:14:21 -------------------------- COMPRA PEI -----------------------------
+26/09 03:14:21 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/pagos/sinbilletera/td/mediopresente/bandamagnetica
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: PAGO_CORMORAN_26/09/2019_15:14
+                    cliente: 200.2.127.227
+                    token: FTE72DgJ9s5809ykmYztTxdaGQMjAGjzTaQbr2bQz5y07vCX9Z6fie7qE75P7EB3
+                <DATA>
+{
+  "pago": {
+    "posEntryMode": "902",
+    "tracks": {
+      "track1": "HciuCyyE/36JumH0F/LovdvnTtaQ8aoyA2Lk2CPls/Jl3HPyLYepDAOOp6ZnEDImb+HiIJvFj+LhK+fP93CF79meBQptCAJQ9d/pj2Kr7EAHFwCOqcMSNG1e3xW4OY52",
+      "track2": "MooqoJtfWYchPLrS+GmPhERqhLpcVIAa2e4wS5U+5Krdgv4VIVlBnu5zGF8cdGlwVIiNbZRffnP+/RpiTqPTQg=="
+    },
+    "numero": "1004",
+    "titularDocumento": "34000919",
+    "idCanal": "PEIBANDA",
+    "idTerminal": "PING01",
+    "idReferenciaTrxComercio": "15082609",
+    "idReferenciaOperacionComercio": "PAGOCORMORAN",
+    "importe": 1000,
+    "moneda": "ARS",
+    "codigoSeguridad": "oLEzuBcVWMGnUw3sI5IGt3p0B16QwfplSWKCcWahryM=",
+    "concepto": "COMPRA_DE_BIENES"
+  }
+}
+26/09 03:14:21 {"pago":{"posEntryMode":"902","tracks":{"track1":"HciuCyyE/36JumH0F/LovdvnTtaQ8aoyA2Lk2CPls/Jl3HPyLYepDAOOp6ZnEDImb+HiIJvFj+LhK+fP93CF79meBQptCAJQ9d/pj2Kr7EAHFwCOqcMSNG1e3xW4OY52","track2":"MooqoJtfWYchPLrS+GmPhERqhLpcVIAa2e4wS5U+5Krdgv4VIVlBnu5zGF8cdGlwVIiNbZRffnP+/RpiTqPTQg=="},"numero":"1004","titularDocumento":"34000919","idCanal":"PEIBANDA","idTerminal":"PING01","idReferenciaTrxComercio":"15082609","idReferenciaOperacionComercio":"PAGOCORMORAN","importe":1000,"moneda":"ARS","codigoSeguridad":"oLEzuBcVWMGnUw3sI5IGt3p0B16QwfplSWKCcWahryM=","concepto":"COMPRA_DE_BIENES"}}
+26/09 03:14:21 -------------------------- RESPUESTA COMPRA -----------------------------
+26/09 03:14:26 {
+  "codigo": "REFERENCIA_TRX_COMERCIO_REPETIDA",
+  "descripcion": "La referencia de transaccion del comercio ya fue utilizada previamente "
+}
+26/09 03:14:26 Error en compra: Error en el servidor remoto: (400) Solicitud incorrecta.
+26/09 03:14:26 Status Code: 7
+26/09 03:14:26 Status Description: Bad Request - REFERENCIA_TRX_COMERCIO_REPETIDA - La referencia de transaccion del comercio ya fue utilizada previamente 
+26/09 03:14:26 -------------------------- CIERRE SESION PEI -----------------------------
+26/09 03:14:26 DELETE https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: FIN_CORMORAN_26/09/2019_15:14
+                    cliente: 200.2.127.227
+                    token: FTE72DgJ9s5809ykmYztTxdaGQMjAGjzTaQbr2bQz5y07vCX9Z6fie7qE75P7EB3
+26/09 03:14:26 -------------------------- RESPUESTA CIERRE SESION -----------------------------
+26/09 03:14:59 Sesion CERRADA
+27/09 11:46:22 -------------------------- INICIO SESION PEI -----------------------------
+27/09 11:46:25 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_27/09/2019_11:46
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+27/09 11:46:25 -------------------------- RESPUESTA INICIO SESION -----------------------------
+27/09 11:46:27 Error de inicio de sesión: 
+28/09 11:30:28 -------------------------- INICIO SESION PEI -----------------------------
+28/09 11:30:28 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion/385
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: SESION_CORMORAN_28/09/2019_11:30
+                    cliente: 200.2.127.227
+                <DATA>
+                    {"credenciales":{"contrasena":"Prueba123","usuario":"sv_30521387862_pei"}}
+28/09 11:30:28 -------------------------- RESPUESTA INICIO SESION -----------------------------
+28/09 11:30:29 {"token":"opYUGa00WLJdCs3ynnYakF1wFQoGK8bl1IZUGdDqlgOd83LwXkfbEcnd12ZwLhD7"}
+28/09 11:30:30 -------------------------- COMPRA PEI -----------------------------
+28/09 11:30:30 POST https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/pagos/sinbilletera/td/mediopresente/bandamagnetica
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: PAGO_CORMORAN_28/09/2019_11:30
+                    cliente: 200.2.127.227
+                    token: opYUGa00WLJdCs3ynnYakF1wFQoGK8bl1IZUGdDqlgOd83LwXkfbEcnd12ZwLhD7
+                <DATA>
+{
+  "pago": {
+    "posEntryMode": "902",
+    "tracks": {
+      "track1": "FdljvGnayXIwFcA4d34FKQOIHTqSEUFPPOf44JH6C+0DfPjMObkjTGiu/G4xj2vvMBCQdpj0RFqdxl8k9cONWABiT1e+MopjjPK8RLAoCtmJ7OwyaSGXef1dVAP7uzOt",
+      "track2": "hbZK4QhQL1GVv2WuXv0ZP3q6tMzj5JdbZpG/w9vxbc4f2wRAcH7KETbIQ5zyh/zcSAtOx1Zq86F8Qxrhe/EwcQ=="
+    },
+    "numero": "1004",
+    "titularDocumento": "29524627",
+    "idCanal": "PEIBANDA",
+    "idTerminal": "PING01",
+    "idReferenciaTrxComercio": "1",
+    "idReferenciaOperacionComercio": "PAGOCORMORAN",
+    "importe": 1000,
+    "moneda": "ARS",
+    "codigoSeguridad": "kICR+1ITzZrcaHKKyw2M5fQ/nO04OucKbeWhT7vkMkw=",
+    "concepto": "COMPRA_DE_BIENES"
+  }
+}
+28/09 11:30:30 {"pago":{"posEntryMode":"902","tracks":{"track1":"FdljvGnayXIwFcA4d34FKQOIHTqSEUFPPOf44JH6C+0DfPjMObkjTGiu/G4xj2vvMBCQdpj0RFqdxl8k9cONWABiT1e+MopjjPK8RLAoCtmJ7OwyaSGXef1dVAP7uzOt","track2":"hbZK4QhQL1GVv2WuXv0ZP3q6tMzj5JdbZpG/w9vxbc4f2wRAcH7KETbIQ5zyh/zcSAtOx1Zq86F8Qxrhe/EwcQ=="},"numero":"1004","titularDocumento":"29524627","idCanal":"PEIBANDA","idTerminal":"PING01","idReferenciaTrxComercio":"1","idReferenciaOperacionComercio":"PAGOCORMORAN","importe":1000,"moneda":"ARS","codigoSeguridad":"kICR+1ITzZrcaHKKyw2M5fQ/nO04OucKbeWhT7vkMkw=","concepto":"COMPRA_DE_BIENES"}}
+28/09 11:30:30 -------------------------- RESPUESTA COMPRA -----------------------------
+28/09 11:30:38 {
+  "codigo": "REFERENCIA_TRX_COMERCIO_REPETIDA",
+  "descripcion": "La referencia de transaccion del comercio ya fue utilizada previamente "
+}
+28/09 11:30:38 Error en compra: Error en el servidor remoto: (400) Solicitud incorrecta.
+28/09 11:30:38 Status Code: 7
+28/09 11:30:39 Status Description: Bad Request - REFERENCIA_TRX_COMERCIO_REPETIDA - La referencia de transaccion del comercio ya fue utilizada previamente 
+28/09 11:30:39 TRX Comercio: 1
+28/09 11:30:55 -------------------------- CIERRE SESION PEI -----------------------------
+28/09 11:30:55 DELETE https://h.api.redlink.com.ar/redlink/homologacion/enlacepagosseg/0/0/36/sesion
+                <HEADERS>
+                    content-type: application/json
+                    accept: application/json
+                    x-ibm-client-id: eb1741fd-7117-4554-93e7-361804b34030
+                    requerimiento: FIN_CORMORAN_28/09/2019_11:30
+                    cliente: 200.2.127.227
+                    token: opYUGa00WLJdCs3ynnYakF1wFQoGK8bl1IZUGdDqlgOd83LwXkfbEcnd12ZwLhD7
+28/09 11:30:58 -------------------------- RESPUESTA CIERRE SESION -----------------------------
+28/09 11:31:00 Sesion CERRADA
+02/06 09:35:15 -------------------------- INICIO SESION PEI -----------------------------
+09/06 06:58:40 -------------------------- INICIO SESION PEI -----------------------------
+10/06 02:36:01 -------------------------- INICIO SESION PEI -----------------------------
+10/06 02:37:48 -------------------------- INICIO SESION PEI -----------------------------
+10/06 02:40:50 -------------------------- INICIO SESION PEI -----------------------------
+10/06 02:47:35 -------------------------- INICIO SESION PEI -----------------------------
+10/06 03:46:49 -------------------------- INICIO SESION PEI -----------------------------
+11/06 08:08:33 -------------------------- INICIO SESION PEI -----------------------------
+11/06 09:14:15 -------------------------- INICIO SESION PEI -----------------------------
+11/06 09:36:27 -------------------------- INICIO SESION PEI -----------------------------
+11/06 10:07:14 -------------------------- INICIO SESION PEI -----------------------------
+11/06 10:29:18 -------------------------- INICIO SESION PEI -----------------------------
+11/06 10:44:08 -------------------------- INICIO SESION PEI -----------------------------
+11/06 11:41:08 -------------------------- INICIO SESION PEI -----------------------------
+11/06 11:43:45 -------------------------- INICIO SESION PEI -----------------------------
+11/06 12:33:31 -------------------------- INICIO SESION PEI -----------------------------
+11/06 03:41:26 -------------------------- INICIO SESION PEI -----------------------------
+12/06 09:04:25 -------------------------- INICIO SESION PEI -----------------------------
+12/06 09:14:05 -------------------------- INICIO SESION PEI -----------------------------
+12/06 09:24:56 -------------------------- INICIO SESION PEI -----------------------------
+12/06 10:11:48 -------------------------- INICIO SESION PEI -----------------------------
+12/06 10:36:39 -------------------------- INICIO SESION PEI -----------------------------
+12/06 02:00:24 -------------------------- INICIO SESION PEI -----------------------------
+12/06 03:19:32 -------------------------- INICIO SESION PEI -----------------------------
+16/06 09:52:40 -------------------------- INICIO SESION PEI -----------------------------
+16/06 11:11:12 -------------------------- INICIO SESION PEI -----------------------------
+16/06 01:30:23 -------------------------- INICIO SESION PEI -----------------------------
+16/06 01:52:09 -------------------------- INICIO SESION PEI -----------------------------
+16/06 02:23:44 -------------------------- INICIO SESION PEI -----------------------------
+17/06 11:04:17 -------------------------- INICIO SESION PEI -----------------------------
+17/06 12:08:35 -------------------------- INICIO SESION PEI -----------------------------
+17/06 12:22:56 -------------------------- INICIO SESION PEI -----------------------------
+17/06 01:46:16 -------------------------- INICIO SESION PEI -----------------------------
+17/06 02:03:37 -------------------------- INICIO SESION PEI -----------------------------
+17/06 02:10:13 -------------------------- INICIO SESION PEI -----------------------------
+17/06 02:16:37 -------------------------- INICIO SESION PEI -----------------------------
+18/06 08:36:20 -------------------------- INICIO SESION PEI -----------------------------
+18/06 08:44:57 -------------------------- INICIO SESION PEI -----------------------------
+18/06 09:31:50 -------------------------- INICIO SESION PEI -----------------------------
+18/06 09:53:48 -------------------------- INICIO SESION PEI -----------------------------
+18/06 10:02:16 -------------------------- INICIO SESION PEI -----------------------------
+18/06 10:08:19 -------------------------- INICIO SESION PEI -----------------------------
+18/06 10:23:48 -------------------------- INICIO SESION PEI -----------------------------
+18/06 12:28:11 -------------------------- INICIO SESION PEI -----------------------------
+18/06 12:36:12 -------------------------- INICIO SESION PEI -----------------------------
+18/06 12:40:49 -------------------------- INICIO SESION PEI -----------------------------
+18/06 12:47:40 -------------------------- INICIO SESION PEI -----------------------------
+18/06 12:50:24 -------------------------- INICIO SESION PEI -----------------------------
+18/06 02:31:16 -------------------------- INICIO SESION PEI -----------------------------
+18/06 02:35:04 -------------------------- INICIO SESION PEI -----------------------------
+18/06 02:42:18 -------------------------- INICIO SESION PEI -----------------------------
+18/06 02:50:28 -------------------------- INICIO SESION PEI -----------------------------
+19/06 07:53:08 -------------------------- INICIO SESION PEI -----------------------------
+19/06 08:12:50 -------------------------- INICIO SESION PEI -----------------------------
+19/06 08:27:52 -------------------------- INICIO SESION PEI -----------------------------
+19/06 08:37:59 -------------------------- INICIO SESION PEI -----------------------------
+19/06 08:44:35 -------------------------- INICIO SESION PEI -----------------------------
+19/06 09:08:19 -------------------------- INICIO SESION PEI -----------------------------
+19/06 09:40:34 -------------------------- INICIO SESION PEI -----------------------------
+19/06 09:54:13 -------------------------- INICIO SESION PEI -----------------------------
+19/06 10:03:39 -------------------------- INICIO SESION PEI -----------------------------
+19/06 10:07:02 -------------------------- INICIO SESION PEI -----------------------------
+19/06 10:52:24 -------------------------- INICIO SESION PEI -----------------------------
+19/06 11:33:24 -------------------------- INICIO SESION PEI -----------------------------
+19/06 11:41:26 -------------------------- INICIO SESION PEI -----------------------------
+19/06 11:59:07 -------------------------- INICIO SESION PEI -----------------------------
+22/06 09:55:33 -------------------------- INICIO SESION PEI -----------------------------
+22/06 09:59:24 -------------------------- INICIO SESION PEI -----------------------------
+22/06 10:20:26 -------------------------- INICIO SESION PEI -----------------------------
+22/06 10:50:04 -------------------------- INICIO SESION PEI -----------------------------
+22/06 10:53:55 -------------------------- INICIO SESION PEI -----------------------------
+22/06 11:17:58 -------------------------- INICIO SESION PEI -----------------------------
+22/06 11:36:57 -------------------------- INICIO SESION PEI -----------------------------
+24/06 11:05:22 -------------------------- INICIO SESION PEI -----------------------------
+26/06 11:10:05 -------------------------- INICIO SESION PEI -----------------------------
+26/06 11:13:55 -------------------------- INICIO SESION PEI -----------------------------
+26/06 12:24:02 -------------------------- INICIO SESION PEI -----------------------------
+15/07 08:25:43 -------------------------- INICIO SESION PEI -----------------------------
+14/09 12:10:30 -------------------------- INICIO SESION PEI -----------------------------
+14/09 02:07:14 -------------------------- INICIO SESION PEI -----------------------------
+14/09 02:50:26 -------------------------- INICIO SESION PEI -----------------------------
+14/09 03:51:07 -------------------------- INICIO SESION PEI -----------------------------
+16/09 10:40:16 -------------------------- INICIO SESION PEI -----------------------------
+24/09 12:04:12 -------------------------- INICIO SESION PEI -----------------------------
+24/09 12:06:30 -------------------------- INICIO SESION PEI -----------------------------
+01/10 12:12:46 -------------------------- INICIO SESION PEI -----------------------------
+06/10 01:59:47 -------------------------- INICIO SESION PEI -----------------------------
+08/10 10:14:45 -------------------------- INICIO SESION PEI -----------------------------
+08/10 02:23:23 -------------------------- INICIO SESION PEI -----------------------------
+28/10 02:10:40 -------------------------- INICIO SESION PEI -----------------------------
+31/10 10:58:11 -------------------------- INICIO SESION PEI -----------------------------
+02/11 01:54:29 -------------------------- INICIO SESION PEI -----------------------------
+06/11 01:49:38 -------------------------- INICIO SESION PEI -----------------------------
+04/02 12:24:37 -------------------------- INICIO SESION PEI -----------------------------
+04/02 01:03:08 -------------------------- INICIO SESION PEI -----------------------------
+04/02 01:11:30 -------------------------- INICIO SESION PEI -----------------------------
+04/02 02:16:59 -------------------------- INICIO SESION PEI -----------------------------
+05/02 07:56:08 -------------------------- INICIO SESION PEI -----------------------------
+11/02 09:21:47 -------------------------- INICIO SESION PEI -----------------------------
+11/02 09:35:36 -------------------------- INICIO SESION PEI -----------------------------
+11/02 09:46:58 -------------------------- INICIO SESION PEI -----------------------------

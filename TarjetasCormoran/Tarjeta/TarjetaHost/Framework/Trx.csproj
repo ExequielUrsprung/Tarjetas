@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F6747FE3-C211-4687-91B4-F44A2FE0EF1E}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Trx</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Trx</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE;DEBUG;NET20</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE;NET20</DefineConstants>
+    <DocumentationFile>Trx.xml</DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=1b44e1d426115821, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Logeador\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Configuration.Install">
+      <Name>System.Configuration.Install</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Management">
+      <Name>System.Management</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\BasicMessageFormatter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\BasicMessagesIdentifier.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\BcdLengthEncoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\BcdStringEncoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\BinaryEncoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\BinaryField.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\BinaryFieldFormatter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\BitMapField.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\BitMapFieldFormatter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\BitMapFieldXmlRendering.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Channels\FilterSkeleton.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Channels\FourBytesAsciiHeaderChannel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Channels\FourBytesNboHeaderChannel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Channels\IChannel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Channels\IFilteredChannel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Channels\IMessageFilter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Channels\MessageFilterDecision.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Channels\ReceiveEventArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Channels\TcpChannel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Channels\TwoBytesNboHeaderChannel.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\ConditionalFormatting\BinaryConstantExpression.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\ConditionalAndOperator.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\ConditionalFieldFormatter.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\ConditionalOrOperator.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\EqualityEqualsOperator.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\ExpressionCompileException.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\ExpressionEvaluationException.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\FieldValueEqualsBinaryOperator.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\FieldValueEqualsStringOperator.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\IBooleanExpression.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\IConditionalFieldEvaluator.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\IMessageExpression.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\IsSetExpression.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\IValueExpression.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\LexicalAnalyzer.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\MessageExpression.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\MidEqualsBinaryOperator.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\MidEqualsStringOperator.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\MtiEqualsExpression.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\NegationOperator.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\ParentMessageExpression.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\SemanticParser.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\StringConstantExpression.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\SubMessageExpression.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\Tokenizer.cs" />
+    <Compile Include="Messaging\ConditionalFormatting\Yytoken.cs" />
+    <Compile Include="Messaging\Field.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FieldAttribute.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FieldCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FieldFormatter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FieldFormatterCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FieldFormatterEventArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FieldValidationException.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FieldXmlRendering.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FixedLengthManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\BasicChannelPool.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\BasicServerPeerManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\ClientPeer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\Forwarder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\IChannelPool.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\IListener.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\IMessageProcessor.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\IMessageSource.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\IServerPeerManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\ListenerCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\ListenerConnectedEventArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\ListenerConnectionRequestEventArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\ListenerPeer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\Peer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\PeerCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\PeerRequest.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\PeerRequestCancelledEventArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\PeerRequestDoneEventArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\Server.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\ServerCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\ServerPeer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\ServerPeerCollection.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\ServerPeerConnectedEventArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\ServerPeerDisconnectedEventArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FlowControl\TcpListener.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\FormatterContext.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\HexadecimalBinaryEncoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\HexadecimalStringEncoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\IBinaryEncoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\ILengthEncoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\IMessageFormatter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\IMessageHeaderFormatter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\IMessagesIdentifier.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\InnerMessageField.cs" />
+    <Compile Include="Messaging\InnerMessageFieldFormatter.cs" />
+    <Compile Include="Messaging\Iso8583\Iso8583Ascii1987MessageFormatter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Iso8583\Iso8583Ascii1993MessageFormatter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Iso8583\Iso8583Bin1987MessageFormatter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Iso8583\Iso8583Bin1993MessageFormatter.cs" />
+    <Compile Include="Messaging\Iso8583\Iso8583Message.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Iso8583\Iso8583MessageFormatter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Iso8583\Iso8583MessageXmlRendering.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\IStringConverter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\IStringEncoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\IStringValidator.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\LengthManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\Message.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\MessageHeader.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\MessageHeaderXmlRendering.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\MessageXmlRendering.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\MessagingComponent.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\MessagingComponentXmlRendering.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\MessagingException.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\NumericValidator.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\ParserContext.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\StringEncoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\StringField.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\StringFieldFormatter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\StringLengthEncoder.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\StringMessageHeader.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\StringMessageHeaderFormatter.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\VariableLengthManager.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Messaging\VolatileStanSequencer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Resources.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SR.cs">
+      <DependentUpon>SR.strings</DependentUpon>
+      <SubType>Code</SubType>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Utilities\ErrorEventArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\FrameworkEncoding.cs" />
+    <Compile Include="Utilities\ISequencer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\IStringPadding.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\NetUtilities.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\SpacePaddingLeft.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\SpacePaddingRight.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\StringPaddingLeft.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\StringPaddingRight.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\StringUtilities.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\VolatileSequencer.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\ZeroPaddingLeft.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Utilities\ZeroPaddingRight.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="SR.strings">
+      <Generator>StringResourceTool</Generator>
+      <LastGenOutput>SR.cs</LastGenOutput>
+    </None>
+    <EmbeddedResource Include="SR.es.resx">
+      <DependentUpon>SR.strings</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SR.resx">
+      <DependentUpon>SR.strings</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="log4net.dll" />
+    <Content Include="Trx.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>set FrameworkDir=..\..\..\..\Build\NET20\Framework\$(ConfigurationName)
+if not exist %25FrameworkDir%25 mkdir %25FrameworkDir%25
+xcopy /E /Y * %25FrameworkDir%25
+del /Q %25FrameworkDir%25\PostBuildEvent.bat
+del /Q %25FrameworkDir%25\*.tmp
+
+set TestsDir=%25FrameworkDir%25\..\..\Tests\$(ConfigurationName)
+if not exist %25TestsDir%25 mkdir %25TestsDir%25
+xcopy /E /Y %25FrameworkDir%25\* %25TestsDir%25
+
+set ExamplesDir=%25FrameworkDir%25\..\..\Examples\$(ConfigurationName)
+if not exist %25ExamplesDir%25 mkdir %25ExamplesDir%25
+xcopy /E /Y %25FrameworkDir%25\* %25ExamplesDir%25</PostBuildEvent>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,17 @@
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\bin\Release\ServerTarjetas.exe.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\bin\Release\ServerTarjetas.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\bin\Release\ServerTarjetas.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\bin\Release\ServerTarjetas.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\bin\Release\ServerLib.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\bin\Release\IsoLibCaja.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\bin\Release\ServerLib.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\bin\Release\ServerLib.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\bin\Release\IsoLibCaja.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\bin\Release\IsoLibCaja.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\obj\Release\ServerTarjetas.vbprojResolveAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\obj\Release\ServerTarjetas.Form1.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\obj\Release\ServerTarjetas.Resources.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\obj\Release\ServerTarjetas.vbproj.GenerateResource.Cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\obj\Release\ServerTarjetas.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\obj\Release\ServerTarjetas.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\ServerTarjetas\obj\Release\ServerTarjetas.pdb

@@ -1,0 +1,52 @@
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\log4net.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\log4net.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\HostEmulator.exe.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\HostEmulator.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\HostEmulator.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\HostEmulator.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\IsoLib.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\TjComun.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\Trx.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\VxCrypter.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\Trx.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\IsoLib.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\IsoLib.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\IsoLib.dll.config
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\TjComun.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\TjComun.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\es\Trx.resources.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.FrmHostEmulator.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.Resources.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.vbproj.CopyComplete
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\log4net.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\HostEmulator.exe.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\HostEmulator.exe
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\HostEmulator.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\HostEmulator.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\IsoLib.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\Trx.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\VxCrypter.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\Trx.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\IsoLib.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\IsoLib.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\IsoLib.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\bin\Release\es\Trx.resources.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.vbprojAssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.FrmHostEmulator.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.exe
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\Tarjeta\TarjetaHost\Desarrollo\HostEmulator\obj\Release\HostEmulator.pdb

@@ -1,0 +1,66 @@
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\log4net.config
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\Parametros.txt
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\ServerQR.dll.config
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\ServerQR.dll
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\ServerQR.pdb
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\ServerQR.xml
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\lib_QR.dll
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\log4net.dll
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\TjComun.dll
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\Newtonsoft.Json.dll
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\lib_QR.pdb
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\lib_QR.xml
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\TjComun.pdb
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\bin\Debug\TjComun.xml
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.Resources.resources
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.vbproj.CopyComplete
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.dll
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.xml
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\log4net.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\Parametros.txt
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\ServerQR.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\ServerQR.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\ServerQR.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\ServerQR.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\lib_QR.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\Newtonsoft.Json.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\lib_QR.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\lib_QR.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\bin\Debug\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.vbprojAssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServerQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\log4net.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\Parametros.txt
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\ServerQR.dll.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\ServerQR.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\ServerQR.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\ServerQR.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\lib_QR.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\Newtonsoft.Json.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\lib_QR.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\lib_QR.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\bin\Debug\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.vbproj.AssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\ServerQR\obj\Debug\ServerQR.pdb

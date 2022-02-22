@@ -1,0 +1,17 @@
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Debug\CajaTester.Form1.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Debug\CajaTester.Resources.resources
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Debug\CajaTester_vs2008.vbproj.GenerateResource.Cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Debug\CajaTester_vs2005.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Debug\CajaTester_vs2005.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Debug\CajaTester_vs2005.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Debug\TjComun.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Debug\VxCrypter.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Debug\TjComun.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Debug\TjComun.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Debug\CajaTester_vs2008.vbprojResolveAssemblyReference.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Debug\CajaTester_vs2005.exe
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Debug\CajaTester_vs2005.xml
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Debug\CajaTester_vs2005.pdb
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Debug\CajaTester_vs2008.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\bin\Debug\lib_PP.dll
+C:\Proyecto Tarjetas\Tarjeta\TarjetaHost\Desarrollo\CajaTester\obj\Debug\CajaTester_vs2008.vbproj.CopyComplete

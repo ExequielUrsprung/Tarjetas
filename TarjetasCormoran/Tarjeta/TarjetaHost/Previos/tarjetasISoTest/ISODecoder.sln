@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ISODecoder", "ISODecoder.vbproj", "{AC41D4D0-82AD-4F8C-B22C-531DA8BFD8D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trx_VS2005", "..\TarjetaTRX\Framework\Trx_VS2005.csproj", "{F6747FE3-C211-4687-91B4-F44A2FE0EF1E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Logeador", "..\logeador\Logeador.vbproj", "{8950278F-67D1-4AA5-B2C9-AF5D97711267}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ONLINECOM", "..\OnlineCom\ONLINECOM.vbproj", "{107080BE-0DD0-43F8-8E92-40DB4CA6E981}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "TarjetasAcceso", "..\TarjetasAcceso2005\TarjetasAcceso.vbproj", "{A8DD1AC0-819C-46C9-B574-EC8BFCA73172}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 5
+		SccProjectUniqueName0 = ISODecoder.vbproj
+		SccProjectName0 = \u0022$/tarjetasISoTest\u0022,\u0020SREAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		SccProjectUniqueName1 = ..\\TarjetaTRX\\Framework\\Trx_VS2005.csproj
+		SccProjectName1 = \u0022$/TarjetaTRX\u0022,\u0020BBDAAAAA
+		SccLocalPath1 = ..\\TarjetaTRX
+		SccProvider1 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		SccProjectFilePathRelativizedFromConnection1 = Framework\\
+		SccProjectUniqueName2 = ..\\logeador\\Logeador.vbproj
+		SccProjectName2 = \u0022$/Logeador\u0022,\u0020JQEAAAAA
+		SccLocalPath2 = ..\\logeador
+		SccProvider2 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		SccProjectUniqueName3 = ..\\OnlineCom\\ONLINECOM.vbproj
+		SccProjectName3 = \u0022$/ONLINECOM\u0022,\u0020KQEAAAAA
+		SccLocalPath3 = ..\\OnlineCom
+		SccProvider3 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		SccProjectUniqueName4 = ..\\TarjetasAcceso2005\\TarjetasAcceso.vbproj
+		SccProjectName4 = \u0022$/TarjetasAcceso2005\u0022,\u0020ECCAAAAA
+		SccLocalPath4 = ..\\TarjetasAcceso2005
+		SccProvider4 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC41D4D0-82AD-4F8C-B22C-531DA8BFD8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC41D4D0-82AD-4F8C-B22C-531DA8BFD8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC41D4D0-82AD-4F8C-B22C-531DA8BFD8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC41D4D0-82AD-4F8C-B22C-531DA8BFD8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6747FE3-C211-4687-91B4-F44A2FE0EF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6747FE3-C211-4687-91B4-F44A2FE0EF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6747FE3-C211-4687-91B4-F44A2FE0EF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6747FE3-C211-4687-91B4-F44A2FE0EF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8950278F-67D1-4AA5-B2C9-AF5D97711267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8950278F-67D1-4AA5-B2C9-AF5D97711267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8950278F-67D1-4AA5-B2C9-AF5D97711267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8950278F-67D1-4AA5-B2C9-AF5D97711267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107080BE-0DD0-43F8-8E92-40DB4CA6E981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107080BE-0DD0-43F8-8E92-40DB4CA6E981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107080BE-0DD0-43F8-8E92-40DB4CA6E981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107080BE-0DD0-43F8-8E92-40DB4CA6E981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8DD1AC0-819C-46C9-B574-EC8BFCA73172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DD1AC0-819C-46C9-B574-EC8BFCA73172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8DD1AC0-819C-46C9-B574-EC8BFCA73172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8DD1AC0-819C-46C9-B574-EC8BFCA73172}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

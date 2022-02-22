@@ -1,0 +1,880 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TjServer
+</name>
+</assembly>
+<members>
+<member name="T:TjServer.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TjServer.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TjServer.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.emisorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.hostsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.numerosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.planesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.visabinDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.ranghabDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.tarultDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.peibanDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.peiproDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.emisorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.hostsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.numerosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.planesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.visabinRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.ranghabRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.tarultRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.peibanRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.peiproRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.Cajas.emisorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.Cajas.hostsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.Cajas.numerosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.Cajas.planesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.Cajas.visabinRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.Cajas.ranghabRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.Cajas.tarultRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.Cajas.peibanRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.Cajas.peiproRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.CajasTableAdapters.emisorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.CajasTableAdapters.hostsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.CajasTableAdapters.numerosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.CajasTableAdapters.planesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.CajasTableAdapters.visabinTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.CajasTableAdapters.ranghabTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.CajasTableAdapters.tarultTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.CajasTableAdapters.peibanTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.CajasTableAdapters.peiproTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.CajasTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TjServer.CajasTableAdapters.TableAdapterManager.UpdateUpdatedRows(TjServer.Cajas,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TjServer.CajasTableAdapters.TableAdapterManager.UpdateInsertedRows(TjServer.Cajas,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TjServer.CajasTableAdapters.TableAdapterManager.UpdateDeletedRows(TjServer.Cajas,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TjServer.CajasTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TjServer.CajasTableAdapters.TableAdapterManager.UpdateAll(TjServer.Cajas)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TjServer.CajasTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TjServer.CajasTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="M:TjServer.DatosHelper.IncrementarNroCierre(System.DateTime)">
+ <summary>
+ Contador de cierres por dia que se hicieron.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.DatosHelper.Modificar_Claves(System.String,System.Byte,System.String,System.String)">
+ <summary>
+ Busca la terminal en la tabla Numeros.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.DatosHelper.BuscarClaves(System.String,System.Byte,TjServer.Req)">
+ <summary>
+ Busca la terminal en la tabla Numeros.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.DatosHelper.BuscarClaves(System.String,System.Byte,TransmisorTCP.MensajeRespuesta)">
+ <summary>
+ Busca la terminal en la tabla Numeros.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.DatosHelper.BuscarTerminal(System.String,System.Byte)">
+ <summary>
+ Busca la terminal en la tabla Numeros.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.DatosHelper.BuscarVersionSoftPP(System.String,System.Byte)">
+ <summary>
+ Busca la Nro de version del pp en la tabla Numeros, para cierre 3DES
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.DatosHelper.BuscarSeriePP(System.String,System.Byte)">
+ <summary>
+ Busca la Nro de serie del pp en la tabla Numeros.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.DatosHelper.BuscarVentasIncompletas">
+ <summary>
+ Busca en tabla movimientos los tipo mensaje 200 que no tienen respuesta 210 ni reverso 400 y que correspondan al ultimo trace de la terminal.
+ Arma el req y crea una lista de movimientos para reversar.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.DatosHelper.CulminacionCierreSatisfactoriaPEI(System.DateTime)">
+ <summary>
+ Arma el .PEI con los movimientos aprobados
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.DatosHelper.CulminacionCierreSatisfactoria(TjServer.Req)">
+ <summary>
+ Arma el .POS con los movimientos 210 aprobados y que no tenga 410.
+ </summary>
+ <param name="req"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.DatosHelper.FiltrarParaCerrar(System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Filtra la tabla movimientos de una sola caja para un unico host para realizar el cierre.
+ </summary>
+ <param name="pinguino">Nro de pinguino</param>
+ <param name="caja">Nro de caja</param>
+ <param name="host">Nro de host</param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.DatosHelper.Exportar_TodosPEI(System.DateTime)">
+ <summary>
+ Exporta todos los movimientos, se hayan o no hecho el cierre.
+ </summary>
+</member>
+<member name="M:TjServer.DatosHelper.Exportar_Todos(System.DateTime)">
+ <summary>
+ Exporta todos los movimientos, se hayan o no hecho el cierre.
+ </summary>
+</member>
+<member name="T:TjServer.DatosTj">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.EMISORDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.HOSTSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.PLANESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.VISABINDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.RANGHABDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.MovimientosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.CIERRESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.NUMEROSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.MAILSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.DiasPromosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.BINESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.MovimientosPEIDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.CONTROLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.EMISORRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.HOSTSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.PLANESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.VISABINRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.RANGHABRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.MovimientosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.CIERRESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.NUMEROSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.MAILSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.DiasPromosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.BINESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.MovimientosPEIRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.CONTROLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.EMISORRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.HOSTSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.PLANESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.VISABINRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.RANGHABRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.MovimientosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.CIERRESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.NUMEROSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.MAILSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.DiasPromosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.BINESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.MovimientosPEIRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTj.CONTROLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.EMISORTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.HOSTSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.PLANESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.VISABINTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.RANGHABTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.MovimientosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.CIERRESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.NUMEROSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.MAILSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.DiasPromosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.BINESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.MovimientosPEITableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.CONTROLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:TjServer.DatosTjTableAdapters.TableAdapterManager.UpdateUpdatedRows(TjServer.DatosTj,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:TjServer.DatosTjTableAdapters.TableAdapterManager.UpdateInsertedRows(TjServer.DatosTj,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:TjServer.DatosTjTableAdapters.TableAdapterManager.UpdateDeletedRows(TjServer.DatosTj,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:TjServer.DatosTjTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:TjServer.DatosTjTableAdapters.TableAdapterManager.UpdateAll(TjServer.DatosTj)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:TjServer.DatosTjTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="M:TjServer.HostTCP.Generar0400_3DES(TjServer.Req)">
+ <summary>
+ Genera mensaje para REVERSO
+ </summary>
+ <param name="req"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.HostTCP.Generar0220_3DES(TjServer.Req)">
+ <summary>
+ Genera mensaje para ADVICE
+ </summary>
+ <param name="req"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.HostTCP.Generar0220_Y1_3DES(TjServer.Req)">
+ <summary>
+ Genera mensaje para ADVICE
+ </summary>
+ <param name="req"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.HostTCP.Generar0220_Z1_3DES(TjServer.Req)">
+ <summary>
+ Genera mensaje para ADVICE
+ </summary>
+ <param name="req"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.HostTCP.Generar0400(TjServer.Req)">
+ <summary>
+ Genera mensaje para REVERSO
+ </summary>
+ <param name="req"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.HostTCP.Generar0500(TjServer.Req)">
+ <summary>
+ Genera mensaje para Cierre de lote
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.HostTCP.Generar0200_3DES(TjServer.Req)">
+ <summary>
+ Genera mensaje 0200 para Compra, Anulacion y Devolucion (CON ENCRIPTACION 3DES).
+ </summary>
+ <param name="req"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.HostTCP.Generar0200(TjServer.Req)">
+ <summary>
+ Genera mensaje 0200 para Compra, Anulacion y Devolucion.
+ </summary>
+ <param name="req"></param>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.Req.#ctor(System.String,System.Int32,System.DateTime)">
+ <summary>
+ Inicializa Req para cierre total.
+ </summary>
+ <param name="pTerm"></param>
+ <param name="host"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.Req.#ctor(System.Int32,System.Int32,System.Int32)">
+ <summary>
+ Inicializa Req para cierre por caja.
+ </summary>
+ <param name="host"></param>
+ <param name="pPin"></param>
+ <param name="pCaja"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.Req.#ctor(TjComun.IdaLib.IdaTypeInternal,System.String,System.String,System.String,System.String)">
+ <summary>
+ Inicializa Req para reverso test.
+ </summary>
+ <param name="_ida"></param>
+ <param name="trace"></param>
+ <param name="ticket"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.Req.#ctor(TjComun.IdaLib.IdaTypeInternal,System.String,System.Int32)">
+ <summary>
+ Inicializa req para reverso.
+ </summary>
+ <param name="pIda"></param>
+ <param name="pTerminal"></param>
+ <param name="pHost"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.Req.#ctor(TjComun.IdaLib.IdaTypeInternal,System.Int32,System.Boolean)">
+ <summary>
+ Inicializa Req para venta normal.
+ </summary>
+ <param name="_ida"></param>
+ <param name="_nrocaja"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.Req.#ctor(TransmisorTCP.MensajeIda,System.Net.IPEndPoint)">
+ <summary>
+ Inicializa Req para venta normal tcp.
+ </summary>
+ <param name="mensaje"></param>
+ <param name="_client"></param>
+</member>
+<member name="M:TjServer.Req.InvalidarReq(System.String)">
+ <summary>
+ Marca requermiento como no valido.
+ </summary>
+ <param name="texto">Descripción del problema.</param>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.Req.validar">
+ <summary>
+ Controla que este todo bien formado antes de mandar.
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.Req.calcularImporte3DES">
+ <summary>
+ Controla que el coef. este bien, se lo incrementa.
+ si tiene cashback.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.Req.calcularImporte">
+ <summary>
+ Controla que el coef. este bien, se lo incrementa.
+ si tiene cashback.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.ServerTar.CierreDiario">
+ <summary>
+ Cierra todas las terminales que hayan tenido movimientos.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.ServerTar.CierrePEI">
+ <summary>
+ Genera Resumen de transacciones PEI de las terminales que hayan tenido movimientos.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.ServerTar.CierreDiario(System.Int32,System.Int32,System.String)">
+ <summary>
+ Cierra una sola caja para test.
+ </summary>
+ <param name="pinguino"></param>
+ <param name="caja"></param>
+ <param name="hst"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.ServerTar.ResponderInvalidaACajaTCP(TjServer.Req)">
+ <summary>
+ Arma la respuesta en el caso que haya un error antes de enviar el requerimiento. No se envia al host y se responde a caja.
+ </summary>
+ <param name="req"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.ServerTar.ResponderInvalidaACajaPEI(TjServer.Req)">
+ <summary>
+ Arma la respuesta en el caso que haya un error antes de enviar el requerimiento. No se envia al host y se responde a caja.
+ </summary>
+ <param name="req"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.ServerTar.ResponderInvalidaACaja(TjServer.Req)">
+ <summary>
+ Arma la respuesta en el caso que haya un error antes de enviar el requerimiento. No se envia al host y se responde a caja.
+ </summary>
+ <param name="req"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.ServerTar.ProcesarMensajeEntrante(TjServer.HostTCP,Trx.Messaging.Iso8583.Iso8583Message)">
+ <summary>
+ Este se usaba antes del 3des.
+ </summary>
+ <param name="hst"></param>
+ <param name="msg"></param>
+</member>
+<member name="M:TjServer.ServerTar.ByteArrayToString(System.Byte[])">
+ <summary>
+ Procedimiento para convertir array de byte a string. (Pin encriptado)
+ </summary>
+ <param name="ba"></param>
+ <returns></returns>
+</member>
+<member name="M:TjServer.ServerTar.ByteArrayToString(System.Byte[],System.Int32,System.Int32)">
+ <summary>
+ Procedimiento para convertir array de byte a string, dando inicio y fin. (Pin encriptado)
+ </summary>
+ <param name="ba"></param>
+ <param name="inicio"></param>
+ <param name="longitud"></param>
+ <returns></returns>
+</member>
+<member name="M:TjServer.ServerTar.ReversarTest(TjComun.IdaLib.IdaTypeInternal,System.String,System.String,System.String,System.String)">
+ <summary>
+ Envía un reverso para test. Se deben colocar los datos de la transacción original.
+ </summary>
+ <param name="ida"></param>
+ <param name="trace"></param>
+ <param name="ticket"></param>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.ServerTar.venderTest(TjComun.IdaLib.IdaTypeInternal,System.String)">
+ <summary>
+ Prueba de tarjeta de prueba con todos los datos completos.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.ServerTar.devolucionTest(TjComun.IdaLib.IdaTypeInternal)">
+ <summary>
+ Prueba posnet con todos los datos completos.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.ServerTar.anulacionVentaTest(TjComun.IdaLib.IdaTypeInternal,System.Int32)">
+ <summary>
+ Prueba sin el check
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:TjServer.ServerTar.GrabarWkey(System.String,System.String,System.String)">
+ <summary>
+ Graba el archivo con la working key de maestro.
+ </summary>
+ <param name="pWkey">Working Key a grabar</param>
+ <param name="pPinCaja">Pinguino/Caja en formato "0000"</param>
+ <param name="pDir">Directorio de tarjetas del pinguino correspondiente, sin la barra final.</param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,26 @@
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\bin\Release\log4net.config
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\bin\Release\TjComun.dll
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\bin\Release\TjComun.pdb
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\bin\Release\TjComun.xml
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\bin\Release\log4net.dll
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\obj\Release\TjComun.vbprojAssemblyReference.cache
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\obj\Release\TjComun.Resources.resources
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\obj\Release\TjComun.vbproj.GenerateResource.cache
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\obj\Release\TjComun.vbproj.CoreCompileInputs.cache
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\obj\Release\TjComun.vbproj.CopyComplete
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\obj\Release\TjComun.dll
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\obj\Release\TjComun.xml
+C:\Proyecto Tarjetas\ServerQR\ConcentradorQR\TjComun\obj\Release\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\bin\Release\log4net.config
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\bin\Release\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\bin\Release\TjComun.pdb
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\bin\Release\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\bin\Release\log4net.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\obj\Release\TjComun.vbproj.AssemblyReference.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\obj\Release\TjComun.Resources.resources
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\obj\Release\TjComun.vbproj.GenerateResource.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\obj\Release\TjComun.vbproj.CoreCompileInputs.cache
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\obj\Release\TjComun.vbproj.CopyComplete
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\obj\Release\TjComun.dll
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\obj\Release\TjComun.xml
+C:\ProyectosNETTarjetas\TarjetasCormoran\ServidorQR\ConcentradorQR\TjComun\obj\Release\TjComun.pdb
